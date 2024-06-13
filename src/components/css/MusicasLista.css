@@ -1,0 +1,15 @@
+.musicas-lista {
+  max-height: 400px; 
+  overflow-y: auto; 
+}
+
+.musicas-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.musica-container {
+  margin-bottom: 20px;
+}

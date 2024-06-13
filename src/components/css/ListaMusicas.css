@@ -1,0 +1,27 @@
+.lista-musicas {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  background-color: #000;
+  color: #fff;
+}
+
+.musica-button {
+  width: 100%;
+  max-width: 400px;
+  padding: 1.5rem 2rem;
+  margin: 1rem 0;
+  border: none;
+  border-radius: 5px;
+  background-color: #1c43f0be;
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-align: center;
+}
+
+.musica-button:hover {
+  background-color: #1c43f0;
+}

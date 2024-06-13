@@ -1,0 +1,137 @@
+.musica-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #000;
+    color: #fff;
+    min-height: 100vh;
+  }
+
+
+  .voltar-button {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    padding-bottom: 10px;
+    margin-bottom: 20px; 
+  }
+  
+  .voltar-button a {
+    color: #1c43f0; 
+    text-decoration: none; 
+    font-size: 2rem; 
+    font-weight: bold;
+    cursor: pointer; 
+    transition: color 0.3s ease;
+  }
+  
+  .voltar-button a:hover {
+    color: #0e2757; 
+  }
+
+  .comandos {
+    margin-bottom: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .comandos button {
+    margin: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: white;
+    background-color: #1c43f0be;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .comandos button:hover {
+    background-color: #1c43f0;
+  }
+  
+  .comandos .scroll-button {
+    margin-top: 1rem;
+  }
+  
+  .letra-container {
+    width: 100%;
+    max-width: 800px;
+    margin-top: 2rem;
+    padding: 1rem;
+    /* background-color: #333; */
+    background-color: #0e0d0d;
+    color: #fff;
+    border-radius: 5px;
+    overflow-y: auto; 
+    max-height: calc(100vh - 200px); 
+  }
+  
+  .letra {
+    text-align: center;
+    white-space: pre-wrap;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  .comando-destaque {
+    color: blue;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+
+  @media (max-width: 768px) {
+
+    .comandos {
+        margin-bottom: 0.1rem;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      
+      .comandos button {
+        margin: 0.2rem;
+        padding: 0.75rem 1.5rem;
+        font-size: 0.875rem;
+        font-weight: bold;
+        color: white;
+        background-color: #1c43f0be;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+      
+      .comandos button:hover {
+        background-color: #1c43f0;
+      }
+      
+      .comandos .scroll-button {
+        margin-top: 1rem;
+      }
+
+      .voltar-button {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        width: 100%;
+        padding-bottom: 1rem;
+        margin-bottom: -2rem; 
+      }
+      
+      .voltar-button a {
+        color: #1c43f0; 
+        text-decoration: none; 
+        font-size: 1.0rem; 
+        font-weight: bold; 
+        cursor: pointer; 
+        transition: color 0.3s ease; 
+      }
+  }
