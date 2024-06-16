@@ -1,29 +1,11 @@
 const musicasData = [
     {
-      nome: '500 graus',
+      nome: '500',
       letra: `
-        [Letra da música 500 graus]
-        Primeira linha da letra...
-        Segunda linha da letra...
-      `,
-      comandos: [
-        'Entra prato',
-        'Toca bumbo',
-        'Ritmo rápido'
-      ]
+        
+      `      
     },
-    {
-      nome: 'Louve',
-      letra: `
-        [Letra da música Louve]
-        Primeira linha da letra...
-        Segunda linha da letra...
-      `,
-      comandos: [
-        'Inicia com prato',
-        'Ritmo moderado'
-      ]
-    },
+    
     {
       nome: 'Jeová Jireh',
       letra: `
@@ -283,10 +265,477 @@ const musicasData = [
         *fim*
      `
     },
+    {
+      nome: 'Escape',
+      letra: `
+        
+        *intro de leve nos pratos*
+        *na segunda da intro entra alguns tons*
+
+        *abre nos pratos e some*
+        O inimigo tenta laços e embaraços
+        Pra me envergonhar, mas não vai
+
+        *duas no surdo no beat pum pum e continua*
+        Porque eu não estou sozinho nessa guerra
+        Está comigo o braço forte do Senhor
+
+        *meio tribal com pratos*
+        Aquele que acalma o vento
+        Aquele que aquieta o mar
+        Que tira a força do fogo
+        E faz o leão jejuar
+
+        *mantem no mesmo groove*
+        O Deus que derruba as muralhas
+        Da estéril faz mãe de filhos
+        É o mesmo que brada do alto
+        Não temas, sou contigo
+
+        *cresce no prato e morreeeee*
+        Deus já tem um caminho aberto pelas águas
+        *entra aqui virada e na cabeça os pratos*
+        Faz romper muitas fontes em meio ao deserto
+        Haverá nuvens que trazem chuvas de bênçãos
+        Ouça a voz, Deus te dá escape e livramento
+        *prato finaliza*
+
+        *entra direto no groove reto e chimbal dobrado*
+        O inimigo tenta laços e embaraços
+        Pra me envergonhar, mas não vai
+        Porque eu não estou sozinho nessa guerra
+        Está comigo o braço forte do Senhor
+
+        *Tribal com Pratos mais pesado*
+        Aquele que acalma o vento
+        Aquele que aquieta o mar
+        Que tira a força do fogo
+        E faz o leão jejuar
+
+        *dobra papa papa e crescente*
+        O Deus que derruba as muralhas
+        Da estéril faz mãe de filhos
+        É o mesmo que brada do alto
+        Não temas, sou contigo
+        *Explodeeeee*
+
+        *groovao pesado*
+        Deus já tem um caminho aberto pelas águas
+        Faz romper muitas fontes em meio ao deserto
+        Haverá nuvens que trazem chuvas de bênçãos
+        Ouça a voz, Deus te dá escape e livramento
+
+        *Mantem groovar pesado*
+        Deus já tem um caminho aberto pelas águas
+        Faz romper muitas fontes em meio ao deserto
+        *solinho nos pratos juntos*
+
+        *prepara contra no haverá pa pa pa paaaaaa*
+        Haverá nuvens que trazem chuvas de bênçãos
+        Ouça a voz, Deus te dá escape e livramento
+
+        *Na cabeça do tempo pa pa pa*
+        Aquele que acalma o vento
+        Aquele que aquieta o mar
+        Que tira a força do fogo
+        E faz o leão jejuar
+
+        *dobra denovo papa papa papa*
+        O Deus que derruba as muralhas
+        Da estéril faz mãe de filhos
+        É o mesmo que brada do alto
+        Não temas, sou contigo
+
+        *Volta groovao pesado*
+        Deus já tem um caminho aberto pelas águas
+        Faz romper muitas fontes em meio ao deserto
+        *solinho nos pratos juntos*
+
+        *prepara contra no haverá pa pa pa paaaaaa*
+        Haverá nuvens que trazem chuvas de bênçãos
+        Ouça a voz, Deus te dá escape e livramento
+
+        *Tribal com batida no contra Prato*
+        Leão da Tribo de Judá
+        *Uma batida é na Cabeça no Reeeina* 
+        Rei dos Reis reina para sempre
+        Leão da Tribo de Judá
+        *Uma batida é na Cabeça no Reeeina*
+        Rei dos Reis reina para sempre
+
+        *Groove pegado direto*
+        Leão da Tribo de Judá
+        Rei dos Reis reina para sempre
+        Leão da Tribo de Judá
+        Rei dos Reis reina para sempre
+
+        *mantem groove*
+        Reina para sempre
+        Reina para sempre
+        *Morre aqui*
+
+        *sem batera, é suave aqui*
+        Deus já tem um caminho aberto pelas águas
+        Faz romper muitas fontes em meio ao deserto
+        Haverá nuvens que trazem chuvas de bênçãos
+        Ouça a voz, Deus te dá escape e livramento
+
+
+        *Acabouuuuuu*
+      `      
+    },
+    {
+      nome: 'Eu te louvarei',
+      letra: `
+        
+        *intro chimbal no beat*
+        *na segunda entra dando ritimo, devagar*
+
+        *mantem groove do hino*
+        És tu única razão da minha adoração; 
+        óh! Jesus.
+        És tu única esperança que alegro ter; 
+        óh! Jesus.
+
+        *manteeem*
+        Confiei em ti fui ajudado, 
+        com a salvação tem me alegrado.
+        Hoje há gozo em meu coração, 
+        com meu canto te Louvarei
+
+        *sobe mas sem correr groove ainda*
+        Eu te louvarei, te glorificarei,
+        Eu te louvarei meu bom Jesus.
+        *pa pa papapa papa pa paann*
+
+        *groove ainda*
+        Eu te louvarei, te glorificarei,
+        Eu te louvarei meu bom Jesus.
+        *pa pa papapa papa pa paann*
+
+        *Volta inicio com o groove do hino*
+        És tu única razão da minha adoração; 
+        óh! Jesus.
+        És tu única esperança que alegro ter; 
+        óh! Jesus.
+
+        *manteeem*
+        Confiei em ti fui ajudado, 
+        com a salvação tem me alegrado.
+        Hoje há gozo em meu coração, 
+        com meu canto te Louvarei
+
+        *sobe mas sem correr groove ainda*
+        Eu te louvarei, te glorificarei,
+        Eu te louvarei meu bom Jesus.
+        *pa pa papapa papa pa paann*
+
+        *groove ainda*
+        Eu te louvarei, te glorificarei,
+        Eu te louvarei meu bom Jesus.
+        *pa pa papapa papa pa paann*
+        *morre preparação*
+
+        *ride e caixa swingão pai*
+
+        *mantem leavadinha top*
+        Em todo tempo te louvarei,
+        Em todo tempo te adorarei.
+
+        *cresce para o solinho guita*
+        *Pegado a intro*
+
+        *Volta coro groovado normal*
+        Eu te louvarei, te glorificarei,
+        eu te louvarei meu bom Jesus.
+        *pa pa papapa papa pa paann*
+
+        *groove ainda*
+        Eu te louvarei, te glorificarei,
+        Eu te louvarei meu bom Jesus.
+        *pa pa papapa papa pa paann*
+
+        *só as vozes e batera*
+        Eu te louvarei, te glorificarei,
+        eu te louvarei meu bom Jesus.
+        *pa pa papapa papa pa paann*
+
+        Eu te louvarei, te glorificarei,
+        Eu te louvarei meu bom Jesus.
+        *pa pa papapa papa pa paann*
+
+        *Repete o pa pa paan pra acabar*
+      `      
+    },
+    {
+      nome: 'Na unção de Deus',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: 'Na Unção de Deus',
+      letra: `
+          
+        *intro só teclas*
+        *na segunda cresce dando ritimo*
+        *depois morre pras vozes entrar*
+
+        *Sem batera*
+        Quando as lutas vierem contra ti
+        Irmão, insista, ainda não é o fim
+
+        *Pode varias pratos de levis*
+        A tua fé, mesmo fraca, ela é forte
+        Destrói muralhas
+
+        *entra batera com 3 no bumbo, bum ti bum ti bum*
+        Ponha os olhos no Senhor Jesus
+        Receba a bênção e a Sua luz
+
+        *mantem o groove base*
+        Você vai ver, você vai vencer
+        *cresce no final da frase*
+
+        Na unção de Deus
+        *passagem com acentuação pratos frase Davi*
+        *e no seu poooo 'pa pa pa pa paaaan'
+        e no Seu poder
+
+        *groove pegado*
+        O crente cheio da unção
+        Manda glória pra cima e recebe poder
+
+        *frase em cima do 'mar' pa pa pan*
+        Ele passa o Mar Vermelho, sai do lado de lá
+        *frase em cima do 'os dem...' pa pa pan*
+        Ele expulsa os demônios, faz o inferno tremer
+
+        *groove e entra na frase com pausa no final*
+        Ele louva a Deus na cova, faz leão dormir
+
+        *batera prepara e entra*
+        *Dois bumbos pegadooo*
+        Ele ora no holocausto e o fogo vai cair
+        Quando está no deserto, Deus envia o maná
+
+        *Frase 3 pratos em cima do jordão*
+        Se vier o Jordão, o rio vai abrir
+
+        *Pratos na cabeça do tempo da frase abriiii vaiii..*
+        E, se não abrir, vai passar por cima das águas
+        Na unção de Deus
+        *mantem groove pro interludio*
+        *morre*
+
+        *volta pro groove base hino*
+        Ponha os olhos no Senhor Jesus
+        Receba a bênção e a Sua luz
+
+        *mantem o groove base*
+        Você vai ver, você vai vencer
+        *cresce no final da frase*
+
+        Na unção de Deus
+        *passagem com acentuação pratos frase Davi*
+        *e no seu poooo 'pa pa pa pa paaaan'
+        e no Seu poder
+
+        *groove pegado*
+        O crente cheio da unção
+        Manda glória pra cima e recebe poder
+
+        *frase em cima do 'mar' pa pa pan*
+        Ele passa o Mar Vermelho, sai do lado de lá
+        *frase em cima do 'os dem...' pa pa pan*
+        Ele expulsa os demônios, faz o inferno tremer
+
+        *groove e entra na frase com pausa no final*
+        Ele louva a Deus na cova, faz leão dormir
+
+        *batera prepara e entra*
+        *Dois bumbos pegadooo*
+        Ele ora no holocausto e o fogo vai cair
+        Quando está no deserto, Deus envia o maná
+
+        *Frase 3 pratos em cima do jordão*
+        Se vier o Jordão, o rio vai abrir
+
+        *Pratos na cabeça do tempo da frase abriiii vaiii..*
+        E, se não abrir, vai passar por cima das águas
+        Na unção de Deus
+
+        *Repete pegado*
+        O crente cheio da unção
+        Manda glória pra cima e recebe poder
+
+        *frase em cima do 'mar' pa pa pan*
+        Ele passa o Mar Vermelho, sai do lado de lá
+        *frase em cima do 'os dem...' pa pa pan*
+        Ele expulsa os demônios, faz o inferno tremer
+
+        *groove e entra na frase com pausa no final*
+        Ele louva a Deus na cova, faz leão dormir
+
+        *batera prepara e entra*
+        *Dois bumbos pegadooo*
+        Ele ora no holocausto e o fogo vai cair
+        Quando está no deserto, Deus envia o maná
+
+        *Frase 3 pratos em cima do jordão*
+        Se vier o Jordão, o rio vai abrir
+
+        *Pratos na cabeça do tempo da frase abriiii vaiii..*
+        E, se não abrir, vai passar por cima das águas
+        Na unção de Deus
+
+        *Mantem groove pegado*
+        Na unção de Deus
+        Na unção de Deus
+        Na unção de Deus
+        Na unção de Deus
+
+        *as vozes sobem* 
+        Na unção de Deus
+        Na unção de Deus
+
+        *nesse você para no final da frase*
+        Na unção de Deus
+
+        *virada e duas na caixa avisar banda pra acabar
+        Na unção de Deus
+        *explode finalllll*
+
+        *Fimmmmm uffa*
+      `      
+    },
+    {
+      nome: '500 graus',
+      letra: `
+            
+        *MAIS DEVAGARRRRRR*
+        *intro só teclas e guita primeira*
+        *ENTRA NA SEGUNDA GROOVE SECO, UM BUMBO E UMA CAIXA*
+
+        *faz uma pausa pra começarem a cantar*
+
+        *entra no tempo 1 inundando*
+        Uma chuva diferente agora está inundando esta igreja
+        Temporal de bênção e poder
+
+        *mantem o groove*
+        Um calor tão glorioso está queimando o pecado
+        Destruindo tudo que aflinge você
+        500 graus de puro fogo santo e poder
+        *pausa de novo*
+
+        *volta no final do desaparecer*
+        *mantem groove mas 3 no chimbal no ritmo*
+        Para fazer enfermidade desaparecer
+        Para fazer o inimigo fugir de você
+        Uma nuvem de vitória está sobre a igreja
+        A previsão de Deus diz que vai chover
+
+        *mantem o groove com chimbal*
+        Vai chover línguas estranhas por todos os lados
+        E desse temporal quero sair molhado
+        Molhado e revestido por esse poder
+        Hoje o impossível vai acontecer!
+        *morre, só teclas e pratos*
+
+        É a promessa de Deus!
+        O fogo vai descer por esse poder
+        É a promessa de Deus!
+        *Cresce com teclado no final*
+        O fogo vai descer por esse poder
+
+        *volta groove com chimbal aberto*
+        Já começa acontecer
+        Debaixo dessa chuva posso contemplar
+        Aleluia daqui! Glória e aleluia de lá!
+        Inundando os irmãos com a bênção nas mãos
+        Vejo milhares de anjos vindo num imenso trovão
+
+        *mantem o groove chimbalzao aberto*
+        Desse lado tem poder
+        Desse lado tem vitória
+        Aqui na frente tem irmãos
+        Sendo batizados e dando glória!
+
+        *mantem o groove*
+        Ali no meio o fogo cai
+        Toda enfermidade não resiste e sai
+        Pelo santo nome de Jesus!
+
+        *mantem groove pra intro guita*
+
+        *volta pro groove com chimbal desenhadinho*
+        E já fez enfermidade desaparecer
+        E já fez o inimigo fugir de você
+        Uma nuvem de vitória continua na igreja
+        A previsão nos diz que ainda vai chover
+
+        *mantem o groove com chimbal*
+        Vai chover línguas estranhas por todos os lados
+        E desse temporal quero sair molhado
+        Molhado e revestido por esse poder
+        Hoje o impossível vai acontecer!
+        *morre, só teclas e pratos*
+
+        É a promessa de Deus!
+        O fogo vai descer por esse poder
+        É a promessa de Deus!
+        *Cresce com teclado no final*
+        O fogo vai descer por esse poder
+
+        *volta groove com chimbal aberto*
+        Já começa acontecer
+        Debaixo dessa chuva posso contemplar
+        Aleluia daqui! Glória e aleluia de lá!
+        Inundando os irmãos com a bênção nas mãos
+        Vejo milhares de anjos vindo num imenso trovão
+
+        *mantem o groove chimbalzao aberto*
+        Desse lado tem poder
+        Desse lado tem vitória
+        Aqui na frente tem irmãos
+        Sendo batizados e dando glória!
+
+        *mantem o groove*
+        Ali no meio o fogo cai
+        Toda enfermidade não resiste e sai
+        Pelo santo nome de Jesus!
+
+        *mantem groove para intro de novo*
+
+
+        *Fimmmm*
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
   ];
   
   export default musicasData;
-  
-
-
-  
