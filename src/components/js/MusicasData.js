@@ -713,15 +713,247 @@ const musicasData = [
       `      
     },
     {
-      nome: '500',
-      letra: `
+      nome: 'Quem é como nosso Deus',
+      letra: `  
+        *INTRO JUNTO COM TRIBAL*
+        *MORRE*
+        
+        *SEM BATERA*
+        Quem é semelhante ao Deus
+        Que cura os enfermos
+        Que ressuscita os mortos
+        Liberta os oprimidos
+        
+        *SEM BATERA OU COM PAD KKK*
+        Quem é semelhante ao Rei
+        De olhos como o fogo
+        Cabelos como a neve
+        *CRESCE NOS PRATOS*
+        Seu rosto brilha mais que o Sol
+        *INTRO COM TRIBAL IGUAL INICIO*
+        
+        Brilha mais que o Sol, oh
+        
+        *LEVADA BEM WORSHIP*
+        Quem é semelhante ao Deus
+        Que cura os enfermos
+        Que ressuscita os mortos
+        Liberta os oprimidos
+        
+        *MANTEM LEVADA*
+        Quem é semelhante ao Rei
+        De olhos como o fogo
+        Cabelos como a neve
+        Seu rosto brilha mais que o Sol
+        
+        *TRIBAL DANDO ENFAZE*
+        Sua glória a outro não dará
+        Jesus Cristo, Filho, reinará
+        
+        *MORREEEEEEE*
+        Quem é como o nosso Deus?
+        Quem é como o nosso Deus?
+        
+        *COMEÇA A SUBIR*
+        Poderoso nas batalhas
+        Poderoso pra salvar
+        
+        *LEVADA PESADA ROCK*
+        Quem é como o nosso Deus?
+        Quem é como o nosso Deus?
+        Poderoso nas batalhas
+        Poderoso pra salvar
+        
+        *MANTEM LEVADA ROCKZAO PA PA PA PAN*
+        Quem é como o nosso Deus?
+        Quem é como o nosso Deus?
+        Poderoso nas batalhas
+        Poderoso pra salvar
+        
+        *TRIBAL E CAIXA PEGADO*
+        Sua glória a outro não dará (Ele não dará)
+        Jesus Cristo, Filho, reinará (Ele reinará)
+        
+        *CRESCEEE E LEVADA WOSRHIP*
+        Quem é como o nosso Deus?
+        Quem é como o nosso Deus?
+        Poderoso nas batalhas
+        Poderoso pra salvar
+        
+        *MANTEM A PEGADA*
+        Quem é como o nosso Deus?
+        Quem é como o nosso Deus?
+        Poderoso, oh (nas batalhas)
+        (Poderoso pra salvar)
+        
+        *PEGADAO SEGUIDO*
+        E Ele reinará para sempre
+        Pra sempre e sempre Ele reinará
+        Para sempre
+        Pra sempre e sempre (Ele reinará)
+        Ele reinará para sempre
+        (Pra sempre e sempre Ele reinará)
+        
+        *MANTEM MESMA PEGADONA*
+        E Ele reinará para sempre
+        Pra sempre e sempre (Ele reinará)
+        
+        *MORREEEEEEE*
+        *PRATOS DE LEVIS*
+        
+        *MINISTRAÇÃO E FAZ ALGUMAS COISAS DE TRIBAL E CAIXA*
+        
+        *ALGUNS TRIBALS PREENCHENDO*
+        Sua glória a outro não dará
+        Jesus Cristo, Filho, reinará
+        
+        *CRESCE PRATOS E VAI PREENCHENDO*
+        Sua glória a outro não dará 
+        *EXPLODE CRESCENDOOOOOOOO*
+        Jesus o Cristo, o Ungido de Deus vai reinar
+        
+        *TRIBAL BEM AMRCADO ROCK*
+        Quem é como o nosso Deus?
+        (Quem é como o nosso Deus?
+        Poderoso nas batalhas
+        Poderoso pra salvar)
+        
+        *MANTEM MESMO TRIBAL MAS PREENCHE MAIS*
+        Quem é como o nosso Deus?
+        Quem é como o nosso Deus?
+        Poderoso nas batalhas
+        Poderoso pra salvar
+        
+        *CRESCE E WORSHIPAO PEGADO*
+        Quem é como o nosso Deus?
+        Quem é como o nosso Deus?
+        oh oh ninguém (Poderoso nas batalhas)
+        (Poderoso pra salvar)
+        
+        *MANTEM WOSRHIPAO*
+        E quem é como o nosso Deus? 
+        (quem é como o nosso Deus?)
+        Poderoso nas batalhas
+        (Poderoso pra salvar) poderoso
+        
+        *OLHA TRIBAAALLL*
+        *AQUI MORRE E TRIBAL DENOVOOOOOO*
+        Quem é como o nosso Deus?
+        (Quem é como o nosso Deus?
+        Poderoso nas batalhas
+        Poderoso pra salvar)
+        
+        *MANTEM TRIBAL SOLO JUNINNHOOOO*
+        Quem é como o nosso Deus?
+        (Quem é como o nosso Deus?
+        Poderoso nas batalhas
+        Poderoso pra salvar) 
+        
+        *TRIBAL CRESCENTEEEE*
+        E Ele reinará para sempre
+        (Pra sempre e sempre Ele reinará)
+        E Ele reinará para sempre
+        (Pra sempre e sempre Ele reinará)
+        
+        *DIRETO MARCADO PAPAPAPPAPA*
+        E Ele reinará para sempre
+        Pra sempre e sempre Ele reinará
+        E Ele reinará para sempre
+        (Pra sempre e sempre Ele reinará) e Ele reinará
+        
+        *INTRO PEGADA WORSHIP LÁ EM CIMA*
+        *E FIM*
+      
+      
         
       `      
     },
     {
-      nome: '500',
+      nome: 'Dependente',
       letra: `
-        
+            
+            *SEM BATERA*
+            O seu amor me trouxe aqui
+            Pra entender que sou de ti
+
+            *SEM BATERA*
+            Em outros lugares eu busquei
+            E em tua presença eu achei o meu lugar
+
+            *SEM BATERA OU COM PAD KKK*
+            O seu amor me trouxe aqui
+            Pra entender que sou de ti
+
+            *SEM BATERA OU COM PAD KKK*
+            Em outros lugares eu busquei
+            E em tua presença eu achei o meu lugar
+
+
+            *ENTRA PRATO*
+
+            *BEM DEBOAS*
+            Sou dependente da tua glória
+            Fui atraído pelo teu amor
+
+            *BEM DEBOAS*
+            Não vou fugir da tua presença
+            Eu só quero te contemplar
+
+            *INTRO, CRESCE PRATO*
+            *MEIO TRIBAL E CAIXA NA CABEÇA, INTRO*
+
+            *ENTRA NO RITMO DO TRIBAL NO BUMBO*
+            *LEVADAAAAA RITMO TRIBAL INTRO*
+            O seu amor me trouxe aqui
+            Pra entender que sou de ti
+
+            *CRESCENTEEEE PRATO E CAIXAAAAAAA*
+            Em outros lugares eu busquei
+            E em tua presença eu achei o meu lugar
+
+            *WORSHIPÃÃÃOOOOOOOO*
+            Sou dependente da tua glória
+            Fui atraído pelo teu amor
+
+            *WORSHIPÃÃÃOOOOOOOO*
+            Não vou fugir da tua presença
+            Eu só quero te contemplar
+
+            *DENOVO OO WORSHIPÃÃÃOOOOOOOO*
+            Sou dependente da tua glória
+            Fui atraído pelo teu amor
+
+            *DENOVO OO WORSHIPÃÃÃOOOOOOOO*
+            Não vou fugir da tua presença
+            Eu só quero te contemplar
+            Eu só quero te contemplar
+
+            *INTRO BEM PEGADONA WORSHIP*
+            *BATERA MORRE MAS PRESTA ATENÇÃO*
+
+
+            *ENTRA NO PEEEEENNDENTEE*
+            Sou depen
+            *ENTRAAAA*
+            dente da tua glória
+            Fui atraído pelo teu amor
+
+            *WORSHIPÃÃÃOOOOOOOO*
+            Não vou fugir da tua presença
+            Eu só quero te contemplar
+
+            *DENOVO OO WORSHIPÃÃÃOOOOOOOO*
+            Sou dependente da tua glória
+            Fui atraído pelo teu amor
+
+            *DENOVO OO WORSHIPÃÃÃOOOOOOOO*
+            Não vou fugir da tua presença
+            Eu só quero te contemplar
+            Eu só quero te contemplar
+
+            *MANTEM PEGADO REPEDE EU SO QUERO*
+            *MORRE E FAZ INTRO INICIAL*
+
       `      
     },
     {

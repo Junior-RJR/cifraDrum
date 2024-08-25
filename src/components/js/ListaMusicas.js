@@ -7,14 +7,16 @@ const ListaMusicas = () => {
 
   const musicas = [
     '500 graus',
-    'Louve',
-    'Medley, Corinho de Fogo',
+    // 'Louve',
+    // 'Medley, Corinho de Fogo',
     'Escape',
     'Jeová Jireh',
     'Clamo Jesus',
-    'Ele Vem',
-    'Eu Te Louvarei',
-    'Na Unção de Deus'
+    // 'Ele Vem',
+    // 'Eu Te Louvarei',
+    'Na Unção de Deus',
+    'Quem é como nosso Deus',
+    'Dependente',
   ];
 
   const handleButtonClick = (musica) => {
