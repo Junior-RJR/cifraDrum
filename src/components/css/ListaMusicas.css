@@ -1,27 +1,104 @@
 .lista-musicas {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   padding: 2rem;
   background-color: #000;
   color: #fff;
+  text-align: center;
+}
+
+.lista-musicas h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.musicas-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .musica-button {
   width: 100%;
-  max-width: 400px;
-  padding: 1.5rem 2rem;
-  margin: 1rem 0;
+  max-width: 300px; 
+  height: 60px; 
+  padding: 1rem;
   border: none;
-  border-radius: 5px;
-  background-color: #1c43f0be;
+  border-radius: 15px; 
+  background: linear-gradient(135deg, #2a5298, #1e3c72);
   color: white;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-transform: uppercase;
   cursor: pointer;
-  transition: background-color 0.3s ease;
-  text-align: center;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
 }
 
 .musica-button:hover {
-  background-color: #1c43f0;
+  transform: scale(1.05);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(135deg, #1e3c72, #2a5298); 
+}
+
+.search-input {
+  width: 100%;
+  max-width: 400px;
+  padding: 0.75rem;
+  margin-bottom: 1.5rem;
+  border-radius: 10px;
+  border: 2px solid #1e3c72; 
+  font-size: 1rem;
+  text-align: center;
+  background-color: transparent;
+  color: white; 
+  transition: border-color 0.3s ease;
+}
+
+.search-input::placeholder {
+  color: rgba(255, 255, 255, 0.7); 
+}
+
+.search-input:focus {
+  border-color: #2a5298; 
+  outline: none;
+}
+
+
+@media (max-width: 768px) {
+
+.search-input {
+  width: 80%;
+  max-width: 400px;
+  padding: 0.75rem;
+  margin-bottom: 1.5rem;
+  border-radius: 10px;
+  border: 2px solid #1e3c72; 
+  font-size: 1rem;
+  text-align: center;
+  background-color: transparent;
+  color: white; 
+  transition: border-color 0.3s ease;
+}
+
+.search-input::placeholder {
+  color: rgba(255, 255, 255, 0.7); 
+}
+
+.search-input:focus {
+  border-color: #2a5298; 
+  outline: none;
+}
+
+.musica-button {
+  /* align-items: center; */
+  /* text-align: center; */
+  margin-left: 1.2rem;
+}
+
 }

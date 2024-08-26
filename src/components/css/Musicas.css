@@ -67,7 +67,7 @@
     padding: 1rem;
     /* background-color: #333; */
     background-color: #0e0d0d;
-    color: #fff;
+    color: #5858fa;
     border-radius: 5px;
     overflow-y: auto; 
     max-height: calc(100vh - 200px); 
@@ -81,10 +81,55 @@
   }
   
   .comando-destaque {
-    color: blue;
+    color: rgb(212, 206, 206);
     text-transform: uppercase;
     font-weight: bold;
   }
+
+.scroll-slider {
+  width: 300px;
+  margin: 1rem 0;
+  appearance: none;
+  height: 8px;
+  border-radius: 5px;
+  background: #1c43f0;
+  outline: none;
+  opacity: 0.7;
+  transition: opacity 0.3s ease;
+}
+
+.scroll-slider:hover {
+  opacity: 1;
+}
+
+.scroll-slider::-webkit-slider-thumb {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #fff;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  transition: background 0.3s ease;
+}
+
+.scroll-slider::-webkit-slider-thumb:hover {
+  background: #e0e0e0;
+}
+
+.scroll-slider::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #fff;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  transition: background 0.3s ease;
+}
+
+.scroll-slider::-moz-range-thumb:hover {
+  background: #e0e0e0;
+}
   
 
   @media (max-width: 768px) {

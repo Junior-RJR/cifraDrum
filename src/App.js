@@ -1,16 +1,21 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Login from './components/js/Login';
 import Home from './components/js/Home';
 import Musicas from './components/js/Musicas';
+
+const ProtectedRoute = ({ element }) => {
+  const authToken = localStorage.getItem('authToken');
+  return authToken ? element : <Navigate to="/" />;
+};
 
 const App = () => {
   return (
     <Router>
       <Routes>
         <Route path="/" element={<Login />} />
-        <Route path="/home" element={<Home />} />
-        <Route path="/musica/:nomeMusica" element={<Musicas />} />
+        <Route path="/home" element={<ProtectedRoute element={<Home />} />} />
+        <Route path="/musica/:nomeMusica" element={<ProtectedRoute element={<Musicas />} />} />
       </Routes>
     </Router>
   );

@@ -8,7 +8,7 @@ const Musicas = () => {
   const musica = musicasData.find(m => m.nome === decodeURIComponent(nomeMusica));
 
   const [isScrolling, setIsScrolling] = useState(false);
-  const [scrollSpeed, setScrollSpeed] = useState(5); 
+  const [scrollSpeed, setScrollSpeed] = useState(1); 
   const letraRef = useRef(null);
 
   useEffect(() => {
@@ -17,7 +17,7 @@ const Musicas = () => {
         if (letraRef.current) {
           letraRef.current.scrollTop += scrollSpeed;
         }
-      }, 100 - scrollSpeed * 5); 
+      }, 100 - scrollSpeed * 10);
       return () => clearInterval(scrollInterval);
     }
   }, [isScrolling, scrollSpeed]);
@@ -26,16 +26,8 @@ const Musicas = () => {
     setIsScrolling(!isScrolling);
   };
 
-  const increaseSpeed = () => {
-    if (scrollSpeed < 10) {
-      setScrollSpeed(scrollSpeed + 1);
-    }
-  };
-
-  const decreaseSpeed = () => {
-    if (scrollSpeed > 0) {
-      setScrollSpeed(scrollSpeed - 1);
-    }
+  const handleSliderChange = (event) => {
+    setScrollSpeed(Number(event.target.value));
   };
 
   if (!musica) {
@@ -44,14 +36,23 @@ const Musicas = () => {
 
   return (
     <div className="musica-container">
-        <div className="voltar-button">
+      <div className="voltar-button">
         <Link to="/home">Voltar</Link>
       </div>
       <h1 className='titleMusic'>{musica.nome}</h1>
       <div className="comandos">
-        <button onClick={toggleScrolling}>{isScrolling ? 'Pausar Rolagem' : 'Iniciar Rolagem'}</button>
-        <button onClick={increaseSpeed}>Aumentar Velocidade</button>
-        <button onClick={decreaseSpeed}>Diminuir Velocidade</button>
+        <button onClick={toggleScrolling}>
+          {isScrolling ? 'Pausar Rolagem' : 'Iniciar Rolagem'}
+        </button>
+        <input
+          type="range"
+          min="0.2"
+          max="5"
+          step="0.2" 
+          value={scrollSpeed}
+          onChange={handleSliderChange}
+          className="scroll-slider"
+        />
       </div>
       <div className="letra-container" ref={letraRef}>
         <div className="letra">

@@ -62,7 +62,7 @@ body {
   border: none;
   border-radius: 5px;
   font-size: 1rem;
-  background-color: #1c43f0be;
+  background-color: #2a5298;
   color: white;
   cursor: pointer;
   transition: background-color 0.3s ease;
@@ -71,4 +71,63 @@ body {
 
 .login-button:hover {
   background-color: #1c43f0;
+}
+
+.error-message {
+  color: #d32f2f;
+  margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+  .login-container {
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+  }
+
+  .login-left, .login-right {
+    flex: none;
+    width: 100%;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+  }
+
+  .login-logo {
+    max-width: 70%; 
+    display: block;
+    margin: 0 auto; 
+  }
+
+  .login-right {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    background-color: transparent;
+  }
+
+  .login-form {
+    width: 90%;
+    max-width: 320px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+  }
+
+  .login-input {
+    width: 100%;
+    padding: 12px;
+    font-size: 0.875rem;
+  }
+
+  .login-button {
+    width: 100%;
+    padding: 12px;
+    font-size: 0.875rem;
+  }
+
+  .error-message {
+    margin-top: 6px;
+  }
 }

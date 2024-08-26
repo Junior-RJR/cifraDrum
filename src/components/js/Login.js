@@ -3,14 +3,19 @@ import { useNavigate } from 'react-router-dom';
 import '../../components/css/Login.css';
 import logo from '../../assets/images/RJR-Branco.png';
 
-const Login = ({ onLogin }) => {
+const Login = () => {
   const [usuario, setUsuario] = useState('');
   const [senha, setSenha] = useState('');
+  const [error, setError] = useState(''); 
   const navigate = useNavigate();
 
   const handleLogin = () => {
-    onLogin(usuario, senha);
-    navigate('/home');
+    if (usuario === 'junior' && senha === 'junior') {
+      localStorage.setItem('authToken', 'authenticated'); 
+      navigate('/home');
+    } else {
+      setError('Usuário ou senha inválidos'); 
+    }
   };
 
   return (
@@ -35,6 +40,7 @@ const Login = ({ onLogin }) => {
             onChange={(e) => setSenha(e.target.value)}
             className="login-input"
           />
+          {error && <p className="error-message">{error}</p>}
           <button onClick={handleLogin} className="login-button">Logar</button>
         </div>
       </div>
