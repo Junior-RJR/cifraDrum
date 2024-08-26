@@ -10,7 +10,7 @@ const Login = () => {
   const navigate = useNavigate();
 
   const handleLogin = () => {
-    if (usuario === 'junior' && senha === 'junior') {
+    if ((usuario === 'junior' && senha === 'rjrdrum') || (usuario === 'bruno' && senha === '123')) {
       localStorage.setItem('authToken', 'authenticated'); 
       navigate('/home');
     } else {
