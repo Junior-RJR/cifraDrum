@@ -20,7 +20,7 @@
   }
   
   .voltar-button a {
-    color: #1c43f0; 
+    color: #2a5298; 
     text-decoration: none; 
     font-size: 2rem; 
     font-weight: bold;
@@ -29,7 +29,7 @@
   }
   
   .voltar-button a:hover {
-    color: #0e2757; 
+    color: rgb(15, 59, 139); 
   }
 
   .comandos {
@@ -45,7 +45,7 @@
     font-size: 1.2rem;
     font-weight: bold;
     color: white;
-    background-color: #1c43f0be;
+    background-color: #2a5298;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -53,7 +53,7 @@
   }
   
   .comandos button:hover {
-    background-color: #1c43f0;
+    background-color: #2762c7;
   }
   
   .comandos .scroll-button {
@@ -92,7 +92,7 @@
   appearance: none;
   height: 8px;
   border-radius: 5px;
-  background: #1c43f0;
+  background: #2a5298;
   outline: none;
   opacity: 0.7;
   transition: opacity 0.3s ease;
@@ -147,7 +147,7 @@
         font-size: 0.875rem;
         font-weight: bold;
         color: white;
-        background-color: #1c43f0be;
+        background-color: #2a5298;
         border: none;
         border-radius: 5px;
         cursor: pointer;
@@ -155,7 +155,7 @@
       }
       
       .comandos button:hover {
-        background-color: #1c43f0;
+        background-color: #2762c7;
       }
       
       .comandos .scroll-button {
@@ -172,7 +172,7 @@
       }
       
       .voltar-button a {
-        color: #1c43f0; 
+        color: #2a5298; 
         text-decoration: none; 
         font-size: 1.0rem; 
         font-weight: bold; 

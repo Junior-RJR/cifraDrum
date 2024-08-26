@@ -6,7 +6,7 @@ const ListaMusicas = () => {
   const navigate = useNavigate();
 
   const musicas = [
-    '500 graus',
+    // '500 graus',
     // 'Louve',
     // 'Medley, Corinho de Fogo',
     'Escape',
