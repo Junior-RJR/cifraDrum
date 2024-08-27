@@ -6,17 +6,21 @@ const ListaMusicas = () => {
   const navigate = useNavigate();
 
   const musicas = [
-    // '500 graus',
+    '500 graus',
     // 'Louve',
     // 'Medley, Corinho de Fogo',
     'Escape',
     'Jeová Jireh',
     'Clamo Jesus',
     // 'Ele Vem',
-    // 'Eu Te Louvarei',
+    'Eu Te Louvarei',
     'Na Unção de Deus',
     'Quem é como nosso Deus',
     'Dependente',
+    'Sala do Trono',
+    'Maranata',
+    'Força Igreja',
+    'Canção que não envelhece',
   ];
 
 const [searchTerm, setSearchTerm] = useState('');

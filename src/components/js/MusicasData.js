@@ -468,12 +468,6 @@ const musicasData = [
       `      
     },
     {
-      nome: 'Na unção de Deus',
-      letra: `
-        
-      `      
-    },
-    {
       nome: 'Na Unção de Deus',
       letra: `
           
@@ -954,6 +948,450 @@ const musicasData = [
             *MANTEM PEGADO REPEDE EU SO QUERO*
             *MORRE E FAZ INTRO INICIAL*
 
+      `      
+    },
+    {
+      nome: 'Sala do Trono',
+      letra: `
+              *INTRO*
+              * APENAS TECLADO*
+              
+              *SEM BATERA*
+              Jesus, tu estás aqui
+              Sim estás, sim estás
+              Toma o teu lugar
+              Santo és, Santo és
+              
+              *MANTEM SEM BATERA*
+              Teu Santo Espírito
+              Vem mover, vem mover
+              Bênçãos dos altos céus
+              Derramar, derramar
+              
+              *ENTRA PRATO*
+              *NA CABEÇA SURDO/BUMBO*
+              Se todos nos céus estão a cantar
+              Como os anjos, os santos, os anciãos
+              Pela eternidade estão a louvar
+              *CRESCE MAS MORRE NO SEMPRE*
+              Então cantarei para sempre
+              
+              *MORREUUUUU*
+              Santo, santo, santo Deus
+              Poderoso, o maior
+              Que era, que és, serás para sempre
+              No trono estás, tu és majestoso
+              Santo, santo Deus
+              
+              *PREPARAR PRA ENTRAR*
+              
+              *ENTRA BEM SUAVE*
+              *LEVADA NO ARO*
+              Estás sempre a chamar
+              Em amor, em amor
+              Vens para revelar
+              Teu querer, teu querer
+              
+              *VAI CRESCENDO COM TAMBORES PROGRESSIVO*
+              Se todos nos céus estão a cantar
+              Como os anjos, os santos, os anciãos
+              Pela eternidade estão a louvar
+              *COMEÇA A EXPLODIR*
+              Então cantarei para sempre
+              
+              *GROOVÃO PESADO*
+              Santo, santo, santo Deus
+              Poderoso, o maior
+              Que era, que és, serás para sempre
+              No trono estás, tu és majestoso
+              Santo, santo Deus
+              *VAI MORRER*
+              
+              *MORREUUUU*
+              *SEM BATERA*
+              O véu rasgou, a porta abriu
+              Glorioso trono eu posso ver
+              Prostrado, rendido a Ti
+              
+              *CRESCENDO COM SURDO E BUMBO SIMPLÃO*
+              O véu rasgou, a porta abriu
+              Glorioso trono eu posso ver
+              Prostrado, rendido a Ti
+              
+              *CRESCEEEEEEEE*
+              
+              *TRIBAL COM PRATOS*
+              O véu rasgou, a porta abriu
+              Glorioso trono eu posso ver
+              Prostrado, rendido a Ti
+              *CRESCE E PREPARA FRASE*
+              
+              *FRASE PA PA PA JUNTO*
+              *TRIBAL PEGADO CONDUÇÃO*
+              O véu rasgou, a porta abriu
+              Glorioso trono eu posso ver
+              *DIRETO PAPAPAPAPAPA*
+              Prostrado, rendido a Ti
+              
+              *GROOVÃO PEGADO*
+              Santo, santo, santo Deus
+              Poderoso, o maior
+              Que era, que és, serás para sempre
+              No trono estás, tu és majestoso
+              Santo, santo Deus
+              
+              *MANTEM MESMO GROOVE
+              Santo, santo, santo Deus
+              Poderoso, 
+              * PRATOS PAUSADOS*
+              o maior
+              Que era, que és, serás para sempre
+              No trono estás, tu és majestoso
+              Santo, santo Deus
+              
+              *ATENÇÃO*
+              *CAIUUU*
+              
+              *SEM BATERA*
+              Jesus, tu estás aqui
+              Sim estás, sim estás
+              Toma o teu lugar
+              Santo és, Santo és
+              *FINALIZA NOS PRATOS*
+              *ACABOOUUUUU*        
+      `      
+    },
+    {
+      nome: 'Maranata',
+      letra: `
+              *INTRO SEM BATERA*
+              *BERRANTE E TECLAS*
+              
+              
+              
+              *SEM BATERA*
+              Maranata vem, maranata vem
+              Maranata vem o Rei, o Rei Jesus
+              
+              *SEM BATERA AINDA*
+              Maranata vem, maranata vem
+              Maranata vem o Rei, o Rei Jesus
+              
+              *UNS TAMBORES PRA DAR SWING*
+              Maranata vem, maranata vem
+              Maranata vem o Rei, o Rei Jesus
+              
+              *UNS TAMBORES PRA DAR SWING*
+              Maranata vem, maranata vem
+              Maranata vem o Rei, o Rei Jesus
+              
+              *VAI ENTRAR*
+              
+              *ENTRA GROOVÃO BLACK*
+              Todo joelho se dobrará, toda língua confessará
+              Jesus, é o Rei dos reis
+              
+              *MANTEM MESMO GROOVE LINDOOO*
+              Todo joelho se dobrará, toda língua confessará
+              Jesus, é o Rei dos reis
+              
+              *PREPARAAA*
+              
+              *VIRADA E VOLTA GROOVE SEQUINHO*
+              Maranata vem, maranata vem
+              Maranata vem o Rei, o Rei Jesus
+              
+              *MANTEM GROOVE*
+              Maranata vem, maranata vem
+              Maranata vem o Rei,
+              *PREPARA PARA O TRIBAL*
+              o Rei Jesus
+              * MORRE E PREPARAAA*
+              
+              *INTRO GRUDADA COM INSTRUMENTOS*
+              *TRIBAL DIFERENCIADO*
+              
+              *MANTEM TRIBAL*
+              Ora vem, ora vem
+              Jesus em breve voltará
+              
+              *FRASE GRUDADA E VOLTA TRIBAL
+              *MANTEM TRIBAL*
+              Vem com poder e autoridade
+              Vem pra levar o que é Seu que na cruz conquistou
+              
+              *FRASE JUNTO COM PRATOS*
+              *MANTEM TRIBAL*
+              Vem com poder e autoridade
+              Vem pra levar o que é Seu que na cruz conquistou
+              
+              *FRASE SOOH BATERA E FINAL PRATOS*
+              *VOLTA TRIBALLL*
+              Vem com poder e autoridade
+              Vem pra levar o que é Seu que na cruz conquistou
+              
+              *FRASE OOHH OOHH OOH*
+              
+              *VOLTA TRIBAL*
+              Vem com poder e autoridade
+              Vem pra levar o que é Seu
+              *PREPARA PRA SAIR TRIBAL*
+              que na cruz conquistou
+              *CRESCE*
+              
+              *GROOVE ROCKZÃOOOOOO*
+              Maranata, maranata
+              Vem, vem, ora vem Senhor Jesus
+              
+              *MANTEM ROCK*
+              Maranata, maranata
+              Vem, vem, ora vem Senhor Jesus
+              
+              *ROCK PESADO PEDAL DUPLOOO KKKK*
+              Maranata, maranata
+              Vem, vem, ora vem Senhor Jesus
+              
+              *ULTIMOOOO*
+              *MARANATA PA PA PA PAAA CONTINUAAA*
+              Maranata, maranata
+              Vem, vem
+              *FRASE COM A LETRA DA MUSICA*
+              Ora vem Senhor Jesus, ora vem Senhor Jesus
+              
+              *EXPLODE PRATOOOOO*
+              Maranata
+              
+              *VIRADA PRA FINALIZAR PA PA PA PAAAANNN*
+              *FIM*
+      `      
+    },
+    {
+      nome: 'Força Igreja',
+      letra: `
+                *INTRO PAD E TECLAS*
+
+
+                *SEM BATERAAA :(*
+                O relógio está marcando
+                São os últimos segundos
+                Não demora muito
+                Está chegando a hora
+                Já vamos embora
+                
+                *AINDA SEM BATERA*
+                Os dias são difíceis
+                Tá doendo, tá apertando
+                Mas permaneça
+                Falta muito pouco
+                O noivo já está vindo te buscar
+                
+                *RIDE BEM DEBOAS / OU CAIXINHA*
+                Força igreja, avança igreja
+                Desperta igreja, já vamos embora
+                Prepara igreja, prega igreja
+                Se mova igreja, já vamos embora
+                
+                *MORRE E PREPARA*
+                
+                *MEIO TRIBAL E PRATO NA CABEÇAAA*
+                Força igreja, avança igreja
+                Desperta igreja, já vamos embora
+                Prepara igreja, prega igreja
+                Se mova igreja, já vamos embora
+                
+                
+                *INTRO E CAI*
+                
+                *SEM BATERA*
+                Oh, noiva
+                Não perca a esperança, só espera
+                Falta muito pouco, não se entrega
+                O noivo já está vindo te buscar
+                
+                *VAI CRESCENDO CAIXA E BUMBO NA CABEÇA*
+                Oh, noiva
+                O teu descanso não é nessa terra
+                Logo, logo acaba essa guerra
+                O noivo já está vindo te buscar
+                
+                *VAI CRESCENDOO*
+                *MESMO TRIBAL E EXPLODE NA CABEÇA PRATOS*
+                Força igreja, avança igreja
+                Desperta igreja, já vamos embora
+                Prepara igreja, prega igreja
+                Se mova igreja, já vamos embora
+                
+                *INTRO OOOH OOOH OOH*
+                *MEIO TRIBAL E PRATOS*
+                
+                *INTERLUDIO GROOVE PEGADO NORMAL*
+                
+                *PREPARAAAA*
+                
+                *CAIIIIIIII*
+                *ALGUNS PRATOS NA CABEÇA*
+                Força igreja, avança igreja
+                Desperta igreja, já vamos embora
+                Prepara igreja, prega igreja
+                Se mova igreja, já vamos embora
+                
+                *VAI CRESCENDO NA CABEÇA DO TEMPO DNV*
+                Força igreja, avança igreja
+                Desperta igreja, já vamos embora
+                Prepara igreja, prega igreja
+                Se mova igreja, já vamos embora
+                
+                *SOBEEEEEEE*
+                Já vamos embora
+                
+                *CRESCE PRATOOOS*
+                *FIM*
+      `      
+    },
+    {
+      nome: 'Canção que não envelhece',
+      letra: `
+              *INTRO SOH VIOLAO*
+              *BATERA INTERCEDE*
+              
+              *SEM BATERA*
+              Quem se compara ao nosso Deus
+              Que fez as estrelas e nome as deu
+              Que o impossível jamais conheceu
+              O Rei majestoso, Senhor sobre todos
+              
+              *PREENCHE PRATOS PRA ENTRAR*
+              Sou tão pequeno diante da glória
+              De um Deus poderoso, Deus vitorioso
+              
+              *PREENCHE DNV PRA ENTRAR*
+              Sentado em Seu trono com os anjos cantando
+              Santo, santo, santo
+              Pra sempre reinando
+              
+              *PREENCHE PRATO ENTRAR*
+              *TRIBAL BEEEM DE LEVIS COM CAIXA*
+              Cantemos a canção que não envelhece no céu
+              Santo, santo
+              E toda terra está cheia da Sua glória
+              Santo, santo
+              *MORREEEEE*
+              
+              *PREPARAAA*
+              *MESMO TRIBAL COM CAIXA*
+              Sou tão pequeno diante da glória
+              De um Deus poderoso, Deus vitorioso
+              
+              *DOBRA TRIBALLLL*
+              Sentado em Seu trono com os anjos cantando
+              Santo, santo, santo
+              Pra sempre reinando
+              *CRESCEEEEEEE*
+              
+              *WORSHIPÃÃÃÃO*
+              Cantemos a canção que não envelhece no céu
+              Santo, santo
+              E toda terra está cheia da Sua glória
+              Santo, santo
+              
+              *MANTEM LEVADA WORSHIP*
+              Cantemos a canção que não envelhece no céu
+              Santo, santo
+              E toda terra está cheia da Sua glória
+              Santo, santo
+              *MANTEM PRATOS*
+              
+              *FRASE PRATOS COM LETRA*
+              E quando a trombeta tocar
+              *MEIO QUE MORRE*
+              *JÁ VEM CRESCENTE PA PA PA PA*
+              Pra sempre iremos cantar
+              *WORSHIPÃÃÃO*
+              Esse som não vai parar
+              A igreja vai cantar com os anjos sem cessar
+              Santo, santo
+              
+              *MANTEM WORSHIP*
+              Esse som não vai parar
+              A igreja vai cantar com os anjos sem cessar
+              Santo, santo
+              
+              *CONTINUAA NA PEGADAAAAA SEGUNDA VEZ*
+              Esse som não vai parar
+              A igreja vai cantar com os anjos sem cessar
+              Santo, santo
+              
+              *TRIBAL SÓ BATERA VAMOO :)*
+              Esse som não vai parar
+              A igreja vai cantar com os anjos sem cessar
+              Santo, santo
+              
+              *TRIBAL COM FINALIZAÇÃO PRATO*
+              Esse som não vai parar
+              A igreja vai cantar com os anjos sem cessar
+              Santo
+              
+              *PEGADA DIRETA PRATO E BUMBO*
+              Cantemos a canção que não envelhece no céu
+              Santo, santo
+              E toda terra está cheia da Sua glória
+              Santo, santo
+              
+              *MANTEM MESMA PEGADA PRATO*
+              E quando a trombeta tocar, pra sempre iremos cantar
+              *VOLTA WORSHIP*
+              Esse som não vai parar
+              A igreja vai cantar com os anjos sem cessar
+              Santo, santo
+              
+              *MANTEM WORSHIPÃO*
+              Esse som não vai parar
+              A igreja vai cantar com os anjos sem cessar
+              Santo, santo
+              *MORREEEEEEE*
+              
+              *SEM BATERAAA*
+              Cantemos a canção que não envelhece no céu
+              Santo, santo
+              E toda terra está cheia da Sua glória
+              Santo, santo
+              *ABRE PRATO*
+              
+              *INTERLUDIO COM MEIO TRIBAL*
+              *VAI CRESCENDO CONFORME MINISTRAÇÃO*
+              
+              *EXPLODEEEEEE*
+              
+              *PEGADÃÃÃOOO*
+              Esse som não vai parar
+              A igreja vai cantar com os anjos sem cessar
+              Santo, santo
+              
+              *MANTEM E DOBRA BUMBO*
+              Esse som não vai parar
+              A igreja vai cantar com os anjos sem cessar
+              Santo
+              
+              *TRIBAL SOH BATERAAA UHUUL*
+              Esse som não vai parar
+              A igreja vai cantar com os anjos sem cessar
+              Santo, santo
+              
+              *CRESCENTEEEEEEEE*
+              Esse som não vai parar
+              A igreja vai cantar com os anjos sem cessar
+              *VAI RALENTAAARR*
+              Santo, santo
+              *LÁ EM CIMA E FINALIZA*
+              
+              
+              *FIM*
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
       `      
     },
     {
