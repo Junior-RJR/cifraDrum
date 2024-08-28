@@ -21,6 +21,9 @@ const ListaMusicas = () => {
     'Maranata',
     'Força Igreja',
     'Canção que não envelhece',
+    'Canção de Simeão',
+    'Digno é o Senhor',
+    'Tu és Santo'
   ];
 
 const [searchTerm, setSearchTerm] = useState('');

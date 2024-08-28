@@ -1389,6 +1389,292 @@ const musicasData = [
       `      
     },
     {
+      nome: 'Tu és Santo',
+      letra: `
+              *INTRO*
+
+              *ENTRA DOIS FLANS CAIXA*
+              * E LÁ EM CIMA BUMBO RETO*
+              
+              *MORRE*
+              
+              *BUMBO DIRETO E DANDO SWING CHIMBAL*
+              Tu és santo (Tu és santo)
+              Poderoso (poderoso)
+              Tu és digno (Tu és digno)
+              Do meu louvor (do meu louvor)
+              
+              *MANTEM BUMBO E CHIMBAL*
+              Vou seguir-te (vou seguir-te)
+              Vou ouvir-te (vou ouvir-te)
+              Para sempre (para sempre)
+              *PREPARA FRASE COM LETRA*
+              Te amarei (te amarei)
+              
+              *MANTEM PEGADO AGORA COM BUMBO RETO*
+              Vou cantando (És o rei dos reis, poderoso Deus)
+              Vou louvando ao rei que (soberano pai)
+              É santo (sobre a terra e céus)
+              Te amando (Deus Emanuel)
+              Lhe dando (és o grande, eu sou)
+              Minha vida (Ele é o cordeiro)
+              Meus sonhos (que me salvou)
+              
+              *MANTEM MESMO GROOVE*
+              Vou cantando (Ele vivo está)
+              Louvando (Ele ressurgiu)
+              Ao rei que (sempre reinará)
+              É santo (sempre existiu)
+              Te amando (Ele é o alfa e o ômega)
+              Lhe dando (o inicio e fim)
+              Minha vida (Deus eterno, Messias)
+              Meus sonhos (amigo pra mim)
+              
+              *MANTEM*
+              Príncipe da paz, viverei pra teu louvor
+              
+              *INTERLUDIO PEGADO*
+              *SOLO GUITA*
+              
+              *MORRE*
+              
+              *BUMBO DIRETO E DANDO SWING CHIMBAL*
+              Tu és santo (Tu és santo)
+              Poderoso (poderoso)
+              Tu és digno (Tu és digno)
+              Do meu louvor (do meu louvor)
+              
+              *MANTEM BUMBO E CHIMBAL*
+              Vou seguir-te (vou seguir-te)
+              Vou ouvir-te (vou ouvir-te)
+              Para sempre (para sempre)
+              *PREPARA FRASE COM LETRA*
+              Te amarei (te amarei)
+              
+              *MANTEM PEGADO AGORA COM BUMBO RETO*
+              Vou cantando (És o rei dos reis, poderoso Deus)
+              Vou louvando ao rei que (soberano pai)
+              É santo (sobre a terra e céus)
+              Te amando (Deus Emanuel)
+              Lhe dando (és o grande, eu sou)
+              Minha vida (Ele é o cordeiro)
+              Meus sonhos (que me salvou)
+              
+              *MANTEM MESMO GROOVE*
+              Vou cantando (Ele vivo está)
+              Louvando (Ele ressurgiu)
+              Ao rei que (sempre reinará)
+              É santo (sempre existiu)
+              Te amando (Ele é o alfa e o ômega)
+              Lhe dando (o inicio e fim)
+              Minha vida (Deus eterno, Messias)
+              Meus sonhos (amigo pra mim)
+              
+              *MANTEM*
+              Príncipe da paz, 
+              *MORRE DPS DO VIVEREI*
+              viverei pra teu louvor
+              
+              *VOLTA PEGADO* 
+              *MORRE *
+              
+              *SEM BATERA*
+              Vou cantando (És o rei dos reis, poderoso Deus)
+              Vou louvando ao rei que (soberano pai)
+              É santo (sobre a terra e céus)
+              Te amando (Deus Emanuel)
+              Lhe dando (és o grande, eu sou)
+              Minha vida (Ele é o cordeiro)
+              Meus sonhos (que me salvou)
+              
+              *CHAMAA NO TRIBALLL*
+              Vou cantando (Ele vivo está)
+              Louvando (Ele ressurgiu)
+              Ao rei que (sempre reinará)
+              É santo (sempre existiu)
+              Te amando (Ele é o alfa e o ômega)
+              Lhe dando (o inicio e fim)
+              Minha vida (Deus eterno, Messias)
+              Meus sonhos (amigo pra mim)
+              
+              *SOBEEEEE GOOVE*
+              Príncipe da paz, viverei pra teu louvor
+              Príncipe da paz, viverei pra teu louvor
+              *MORREEEE*
+              
+              *CRESCE INTERLUDIO OOHH OOHHH*
+              *FRASE DO TE AMAREI*
+              
+              *FINAL FRASE TE AMAREI 2 VEZES E DPS DE UM TEMPO*
+              *MAIS UMA FRASE
+              
+              *FIM*
+      `      
+    },
+    {
+      nome: 'Digno é o Senhor',
+      letra: `
+              *INTRO*
+
+              *TECLADO E VIOLA*
+              
+              *SEM BATERAAA*
+              Graças eu te dou, Pai
+              Pelo preço que pagou
+              Sacrifício de amor
+              Que me comprou
+              Ungido do Senhor
+              
+              *PREPARAA*
+              *ENTRA GROOVEZINHO ARO*
+              Pelos cravos em tuas mãos
+              Graças eu te dou, ó meu Senhor
+              Lavou minha mente e coração
+              Me deu perdão
+              
+              *VAI SUBIR*
+              *CRESCEEE*
+              Restaurou-me a comunhão
+              
+              *GROOVE MAIS PREENCHIDO*
+              Digno é o Senhor
+              Sobre o trono está
+              Soberano, criador
+              Vou sempre te adorar
+              
+              *MANTEM GROOVE*
+              Elevo minhas mãos
+              Ao Cristo que venceu
+              Cordeiro de Deus morreu por mim
+              *MORREEE*
+              *VOLTA COM SWING ARO*
+              Mas ressuscitou
+              Digno é o Senhor
+              
+              *PREPARAA*
+              *ENTRA GROOVE*
+              Pelos cravos em tuas mãos
+              Graças eu te dou, ó meu Senhor
+              Lavou minha mente e coração
+              Me deu perdão
+              
+              *VAI SUBIR*
+              *CRESCEEE*
+              Restaurou-me a comunhão
+              
+              *GROOVE MAIS PREENCHIDO*
+              Digno é o Senhor
+              Sobre o trono está
+              Soberano, criador
+              Vou sempre te adorar
+              
+              *MANTEM GROOVE*
+              Elevo minhas mãos
+              Ao Cristo que venceu
+              Cordeiro de Deus morreu por mim
+              *MORREEE*
+              *VOLTA COM SWING ARO*
+              Mas ressuscitou
+              Digno é o Senhor
+              
+              *VAI SUBIIR*
+              *EXPLODE*
+              
+              *MANTEM GROOVE*
+              Elevo minhas mãos
+              Ao Cristo que venceu
+              Cordeiro de Deus morreu por mim
+              *MORREEE*
+              *SUAVEEEEEE SEM BATERA*
+              Mas ressuscitou
+              Digno é o Senhor
+              
+              *AGORA COM ARO DEBOAS*
+              Mas ressuscitou
+              Digno é o Senhor
+              
+              *SOBEEEEEE*
+              Mas ressuscitou
+              Digno é o Senhor
+              
+              *LÁ EM CIMA AINDAAA*
+              Mas ressuscitou
+              *PREPARAAAA*
+              Digno é o Senhor
+              
+              *ABRE PRATO PRA ACABARRR*
+              
+              
+              *FIM*
+      `      
+    },
+    {
+      nome: 'Canção de Simeão',
+      letra: `
+            *INTRO*
+
+            *PAD E VIOLAO*
+            
+            *SEM BATERAAA*
+            Os meus olhos viram a salvação
+            A luz para o mundo, esperança da terra
+            E eu não sou mais meu
+            E eu não sou mais meu
+            
+            *AINDA SEM BATERAAA :(*
+            Cristo, tu és a minha porção
+            O trigo esmagado, vinho novo e o pão
+            E eu não sou mais meu
+            E eu não sou mais meu
+            
+            *PREPARA PRATOS*
+            *ABRE COM PRATOS*
+            És a fome que me faz cantar
+            És a sede que me faz beber
+            És o nome que escuto ao deitar
+            E o olhar que vejo ao amanhecer
+            
+            *ABRE NOS PRATOS DNV*
+            *UNS RIDES DPS*
+            E essa é minha promessa
+            Eu gastarei minha vida pra Te coroar
+            Esse é o meu anseio
+            O meu amor por Ti não será um segredo
+            
+            E essa é minha promessa
+            Eu gastarei minha vida pra Te coroar
+            Esse é o meu anseio
+            O meu amor por Ti não será um segredo
+            
+            És a fome que me faz cantar
+            És a sede que me faz beber
+            És o nome que escuto ao deitar
+            E o olhar que vejo ao amanhecer
+            
+            E essa é minha promessa
+            Eu gastarei minha vida pra Te coroar
+            Esse é o meu anseio
+            O meu amor por Ti não será um segredo
+            
+            E essa é minha promessa
+            Eu gastarei minha vida pra Te coroar
+            Esse é o meu anseio
+            O meu amor por Ti não será um segredo
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
       nome: '500',
       letra: `
         
