@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
+import { FaPlay, FaPause } from 'react-icons/fa';
 import musicasData from '../../components/js/MusicasData';
 import '../../components/css/Musicas.css';
 
@@ -39,10 +40,13 @@ const Musicas = () => {
       <div className="voltar-button">
         <Link to="/home">Voltar</Link>
       </div>
-      <h1 className='titleMusic'>{musica.nome}</h1>
+      <h1 className="titleMusic">{musica.nome}</h1>
       <div className="comandos">
-        <button onClick={toggleScrolling}>
+        <button onClick={toggleScrolling} className="desktop-button">
           {isScrolling ? 'Pausar Rolagem' : 'Iniciar Rolagem'}
+        </button>
+        <button onClick={toggleScrolling} className="mobile-button">
+          {isScrolling ? <FaPause /> : <FaPlay />}
         </button>
         <input
           type="range"

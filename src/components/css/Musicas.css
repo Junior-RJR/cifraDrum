@@ -130,53 +130,60 @@
 .scroll-slider::-moz-range-thumb:hover {
   background: #e0e0e0;
 }
+
+.desktop-button {
+  display: inline-block; 
+}
+
+.mobile-button {
+  display: none; 
+}
   
 
-  @media (max-width: 768px) {
-
-    .comandos {
-        margin-bottom: 0.1rem;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-      }
-      
-      .comandos button {
-        margin: 0.2rem;
-        padding: 0.75rem 1.5rem;
-        font-size: 0.875rem;
-        font-weight: bold;
-        color: white;
-        background-color: #2a5298;
-        border: none;
-        border-radius: 5px;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-      }
-      
-      .comandos button:hover {
-        background-color: #2762c7;
-      }
-      
-      .comandos .scroll-button {
-        margin-top: 1rem;
-      }
-
-      .voltar-button {
-        display: flex;
-        align-items: center;
-        justify-content: flex-start;
-        width: 100%;
-        padding-bottom: 1rem;
-        margin-bottom: -2rem; 
-      }
-      
-      .voltar-button a {
-        color: #2a5298; 
-        text-decoration: none; 
-        font-size: 1.0rem; 
-        font-weight: bold; 
-        cursor: pointer; 
-        transition: color 0.3s ease; 
-      }
+@media (max-width: 768px) {
+  .comandos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: transparent; 
+    padding: 10px 0;
+    z-index: 1000; 
   }
+
+  .titleMusic {
+    font-size: 1.5rem;
+  }
+
+  .scroll-slider {
+    width: 70%; 
+  }
+
+  .letra-container {
+    max-height: calc(100vh - 80px); 
+    padding-bottom: 50px; 
+  }
+
+  .desktop-button {
+    display: none;
+  }
+
+  .mobile-button {
+    display: inline-block;
+    font-size: 1.2rem;
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin: 0 10px; 
+  }
+
+  .voltar-button {
+    font-size: 0.8rem; 
+    margin-bottom: 20px;
+  }
+}
+
