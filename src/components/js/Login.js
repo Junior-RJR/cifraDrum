@@ -10,11 +10,15 @@ const Login = () => {
   const navigate = useNavigate();
 
   const handleLogin = () => {
-    if ((usuario === 'junior' && senha === 'rjrdrum') || (usuario === 'bruno' && senha === '123')) {
+    if ((usuario === 'junior' && senha === 'rjrdrum') || 
+    (usuario === 'bruno' && senha === '123') || 
+    (usuario === 'batera' && senha === 'arabaio')) 
+    
+    {
       localStorage.setItem('authToken', 'authenticated'); 
       navigate('/home');
     } else {
-      setError('Usuário ou senha inválidos'); 
+      setError('vish... errou tenta dnv aee'); 
     }
   };
 

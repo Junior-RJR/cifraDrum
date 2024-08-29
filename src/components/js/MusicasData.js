@@ -1663,9 +1663,70 @@ const musicasData = [
       `      
     },
     {
-      nome: '500',
+      nome: 'Não há Barreiras',
       letra: `
-        
+            *INTRO*
+            *conta 4 e entra*	
+            *SWING ELI E FRASE PAUSADA PA PA PAAANN*
+            
+            *GROOVEZIN ARO*
+            Sei que os problemas vão surgir
+            Sei que provações virão
+            Mas põe a tua fé no intercessor que é Jesus
+            Que Ele te estende as forte mãos
+            
+            *MANTEM A VIBE*
+            Sei que as muralhas do temor
+            Hão de intimidar teu ser
+            Mas põe a tua fé no intercessor que é Jesus
+            E as barreiras tu irás romper
+            
+            *PREPARA*
+            *GROOVE COM CAIXA*
+            Pois não há barreiras
+            Para aquele revestido do poder
+            Que vem de Deus
+            Destruindo todo mal e dor
+            As mais altas barreiras
+            Tu irás transpor
+            
+            *INTRO COMEÇO*
+            *MORRE QUASEEEE KK*
+            
+            *VOLTA PRO GROOVE DE ARO*
+            Sei que não há nada, nem ninguém
+            Que consiga separar, separar
+            Um cristão de Deus
+            E de uma vida mais além
+            *PREPARA PRA FRASE COM LETRA CESAR
+            No céu onde os temores vão cessar
+            *FRASEEEEE*
+            
+            *MANTEM NA VIBEZINHA*
+            É intransponível esse amor
+            Que Jesus tem pelos seus irmãos
+            Dando o livramento em plena luta, em plena dor
+            Jesus é o nosso grande intercessor
+            
+            *GROOVE CAIXA*
+            Pois não há barreiras
+            Para aquele revestido do poder
+            Que vem de Deus
+            Destruindo todo mal e dor
+            As mais altas barreiras
+            Tu irás transpor
+            
+            *MANTEM MESMO GROOVE*
+            Pois não há barreiras
+            Para aquele revestido do poder
+            Que vem de Deus
+            Destruindo todo mal e dor
+            As mais altas barreiras
+            Tu irás transpor
+            *INTROOO DO INCIO COM SWING*
+            
+            
+            *FIM*
       `      
     },
     {

@@ -23,7 +23,8 @@ const ListaMusicas = () => {
     'Canção que não envelhece',
     'Canção de Simeão',
     'Digno é o Senhor',
-    'Tu és Santo'
+    'Tu és Santo',
+    'Não há Barreiras',
   ];
 
 const [searchTerm, setSearchTerm] = useState('');
