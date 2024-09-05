@@ -2158,6 +2158,143 @@ const musicasData = [
       `      
     },
     {
+      nome: 'Santo pra Sempre',
+      letra: `
+              *INTRO*
+
+              *TECLADO E ENTRA COM TONS*
+              
+              *FINALIZA COM PRATOS*
+              
+              
+              
+              
+              
+              
+              *SEM BATERAAA*
+              As muitas gerações rendidas em louvor
+              Cantando ao Cordeiro uma canção
+              Os que em Ti se foram e os que hão de crer
+              Cantando ao Cordeiro uma canção
+              
+              *ABRE PRATOS*
+              *VEM COM TAMBORES*
+              Teu nome é o mais alto
+              Teu nome é o maior
+              Teu nome é sobre todos
+              Os tronos e domínios, governos e poderes
+              Teu nome é sobre todos
+              
+              *ABRE PRATOS DE NOVO*
+              *PREENCHE MAIS TAMBORES*
+              E os anjos clamam: Santo
+              Toda criação: Santo
+              Exaltado és: Santo
+              Santo pra sempre
+              *VAI CRESCENDO*
+              
+              *PREPARA*
+              
+              *ENTRA GROOVE COM SURDO E CAIXA
+              Quem foi perdoado e redimido foi
+              Cante ao Cordeiro uma canção
+              
+              *MANTEM MESMA VIBE*
+              Aquele que é livre e leva o Seu nome
+              Cante ao Cordeiro uma canção
+              *PREPARAAA PRA MORRER*
+              
+              
+              Cantaremos
+              *MORREU*
+              para sempre, amém
+              
+              *VOLTAAAA*
+              *GROOVE LA EM CIMA*
+              E os anjos clamam: Santo
+              Toda criação: Santo
+              Exaltado és: Santo
+              Santo pra sempre
+              
+              *MANTEM MESMA PEGADA*
+              O Teu povo canta: Santo
+              Sim, ao Rei dos reis: Santo
+              Tu sempre serás Santo
+              Santo pra sempre
+              *VAI CAIR*
+              
+              *FICA NOS TAMBORES*
+              Teu nome é o mais alto
+              Teu nome é o maior
+              Teu nome é sobre todos
+              Os tronos e domínios, governos e poderes
+              Teu nome é sobre todos
+              
+              *VAI SUBIRRRRR*
+              *NA CABEÇAAAAAA*
+              (Teu nome) Teu nome é o mais alto
+              Teu nome é o maior
+              Teu nome é sobre todos (oh, oh)
+              
+              *DIRETOOOOOOOOO*
+              Os tronos e domínios, governos e poderes
+              Teu nome é sobre todos
+              
+              *GROOVÃO WORSHIP*
+              E os anjos clamam: Santo
+              Toda criação: Santo
+              Exaltado és: Santo
+              Santo pra sempre
+              
+              *MANTEM GROOVE LA EM CIMA*
+              O Teu povo canta: Santo
+              Sim, ao Rei dos reis: Santo
+              Tu sempre serás Santo
+              Santo pra sempre
+              *PREPARA PRA CAIR*
+              
+              *CAIUUUUU*
+              
+              *BEEEM DEBOAAS*
+              Tu sempre serás Santo
+              Santo pra sempre
+              
+              *FINALIZA NOS PRATOS*
+              
+              *FIM*
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
       nome: '500',
       letra: `
         

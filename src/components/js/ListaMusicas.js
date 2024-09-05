@@ -12,6 +12,7 @@ const ListaMusicas = () => {
     'Escape',
     'Jeová Jireh',
     'Clamo Jesus',
+    'Santo pra Sempre',
     // 'Ele Vem',
     'Eu Te Louvarei',
     'Na Unção de Deus',
