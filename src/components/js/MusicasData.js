@@ -1730,21 +1730,431 @@ const musicasData = [
       `      
     },
     {
-      nome: '500',
+      nome: 'O Leão e o Cordeiro',
       letra: `
-        
+            *INTRO*
+            *TECLADO NA PRIMEIRA*
+            *ENTRA GUITA NA SEGUNDA*
+            
+            
+            *SEM BATERA*
+            O Rei da glória Se despiu da majestade
+            E Se assentou com pecadores, 
+            nenhum brilho ou trono revelou
+            Quem saberia que Seus olhos viram 
+            o universo sendo feito?
+            Quem acreditaria que 
+            o Seu cetro já regeu o tempo?
+            
+            *AINDA SEM BATERA*
+            *RESPEITA ISSO TIO*
+            Homem tão simples, sem ter lugar ou onde repousar
+            Na estrebaria não é o melhor lugar pra se estrear
+            Quem notaria que Sua voz chamou o mundo à existência?
+            E aquelas mãos, moldou o homem à Sua semelhança?
+            
+            *ABRE PRATOS DE LEVIS*
+            Como cordeiro mudo foi levado ao matadouro
+            Não tinha glória, Seu coração na cruz rasgou
+            Ficou calado, assinou todas as nossas culpas
+            Não tinha manchas, no calvário não reclamou
+            
+            *MANTEM AINDA SEM BATERA*
+            Foi maltratado e humilhado
+            O cordeiro de Deus, mas foi fiel até o fim
+            Que tira o pecado do mundo
+            Revela a eternidade e Sua glória em mim
+            
+            *PREPARAAA PRA CAIXA*
+            *ENTRAAAAAA*
+            *MARCHINHA E BUMBO*
+            Mas como leão, rugirá, e todo olho O verá
+            Em glória marchando, Ele vem
+            Sobre as nuvens, Ele vem
+            
+            *MANTEM A VIBE*
+            Ele é o Leão e o Cordeiro
+            O mal foi vencido, o céu cantou
+            Onde está, ó morte, a tua vitória?
+            O Cordeiro foi morto, mas o Leão ressuscitou
+            
+            *MANTEM AINDA*
+            Oh, oh, oh, oh
+            Oh, oh, oh, oh, Ele ressuscitou
+            
+            *MANTEM MESMA PEGADINHA*
+            Oh, oh, oh, oh (obrigado, Jesus)
+            Oh, oh, oh, oh, Ele está vindo
+            Oh, oh, oh, oh, Ele ressuscitou
+            *PREPARA PRA MORRER*
+            Oh
+            *CAIU PRO UUHULL*
+            
+            *VOLTA GROOVEZINHO PAI*
+            Como cordeiro mudo, foi levado ao matadouro
+            Não tinha glória, Seu coração na cruz rasgou
+            Ficou calado, assinou todas as nossas culpas
+            Não tinha manchas, no calvário não reclamou
+            
+            *LINDO, CONTINUAAA*
+            Foi maltratado e humilhado
+            O cordeiro de Deus, mas foi fiel até o fim
+            Que tira o pecado do mundo
+            Revela a eternidade e Sua glória em mim
+            
+            
+            *PREPARAAAA*
+            *CRESCEEEE E GROOVE*
+            Mas como leão, rugirá, e todo olho O verá
+            Em glória, marchando Ele vem
+            Sobre as nuvens, Ele vem
+            
+            *MANTEEMMMMMM*
+            Ele é o Leão e o Cordeiro
+            O mal foi vencido, o céu cantou
+            Onde está, ó morte, a tua vitória?
+            O Cordeiro foi morto, mas o Leão ressuscitou
+            
+            *LÁ EM CIMAAAAA DIRETÃO*
+            *BUMBO DIREITO*
+            Oh, oh, oh, oh
+            Oh, oh, oh, oh
+            Oh, oh, oh, oh, Ele ressuscitou
+            
+            *VAI CAIIIRRRR*
+            
+            *SEM BATERA (SE DEIXAR TRIBAL DUAS CAIXAS*
+            Emanuel, o Verbo, o Rei da Eternidade
+            O Pão da Vida, Eu sou o Verdadeiro Deus
+            Ele é o Senhor, Libertador e Salvador
+            A Rocha Eterna, Palavra Viva, é o Bom Pastor
+            
+            *AINDA SEM NADA, OU NAO KKKK*
+            Jeová Nissi, Jeová Rafá, Jeová Shalom
+            Deus Adonai, Kadosh, El Elion
+            Jeová Jireh, o Elohim, Deus Ell Shadday
+            Yaweh Shammah, com toda glória O adorai
+            
+            *VEM CRESCENDO COM MARCHA E BUMBO*
+            Emanuel, o Verbo, o Rei da Eternidade
+            O Pão da Vida, Eu Sou o Verdadeiro Deus
+            Ele é o Senhor, Libertador e Salvador
+            A Rocha Eterna, Palavra Viva, é o Bom Pastor
+            
+            *VAI CRESCENDO MAIS*
+            *DIRETOOOOOOOOO*
+            Jeová Nissi, Jeová Rafá, Jeová Shalom
+            Deus Adonai, Kadosh, Ell Elion
+            Jeová Jireh, o Elohim, Deus El Shadai
+            *VAI CORTARRRRRR PRESTA ATENÇÃO*
+            *NO RAAAI DO ADORAI*
+            Yahweh Shammah, com toda glória 
+            *OH O CORTE*
+            O adorai
+            
+            *VOLTAAAAAAAAA*
+            Mas como leão, rugirá, e todo olho O verá
+            Em glória, marchando Ele vem
+            Sobre as nuvens, Ele vem
+            
+            *MANTEM GROOVE PESADO*
+            Ele é o Leão e o Cordeiro
+            O mal foi vencido, o céu cantou
+            Onde está, ó morte, a tua vitória?
+            O Cordeiro foi morto, mas o Leão ressuscitou (ressuscitou)
+            
+            *LÁ EM CIMAAAA*
+            Oh, oh, oh, oh (ele ressuscitou)
+            Oh, oh, oh, oh (está vivo)
+            Oh, oh, oh, oh, Ele ressuscitou
+            
+            *MANTEM MESMA PEGADA FIIII*
+            Oh, oh, oh, oh (obrigado, Senhor)
+            Oh, oh, oh, oh (aleluia)
+            Ele ressuscitou
+            *MORREEUUUUUU*
+            *ABRE PRATOS PRA FINALIZARRRRR*
+            
+            
+            *FIM*
       `      
     },
     {
-      nome: '500',
+      nome: 'A Vitória da Cruz',
       letra: `
-        
+            *LEMBRA QUE É MEIO SALSA*
+            *INTRO*
+            *TECLADO E BONGO*
+            
+            *CONTA DOIS COMPASSOS E ENTRA BATERA*
+            
+            *LEVADINHA DEBOAS*
+            
+            *MANTEM LEVADA SWING*
+            Como um leão que ruge, o diabo quer nos devorar
+            Está buscando brechas para destruir, roubar e matar
+            
+            *CONTINUA*
+            Não é na nossa força que podemos vencer
+            Maior é Jesus em nós, vem nos defender
+            
+            *INTERLUDIO MINI*
+            
+            *CONTINUA GROOVE*
+            O sangue derramado lá na Cruz foi para me salvar
+            Meu pecado e dor, Jesus levou, sofreu em meu lugar
+            
+            *MANTEMMMM*
+            A minha dívida pagou para eu livre ser
+            Cristo morreu por mim,
+            *VAI SUBINDOOO*
+            posso viver
+            
+            *LEVADA MAIS PRA CIMA*
+            Hoje eu sou livre para amar a Deus
+            Viver vitorioso como um filho Seu
+            Hoje eu sou livre para celebrar
+            O pecado não pode mais me dominar
+            
+            *INTERLUDIO COM DOIS ATAQUES NA CABECA*
+            *VAII*
+            
+            *VOLTA GROOVE*
+            Jesus crucificado e o inferno, em festa, se alegrou
+            Pensavam ter vencido e derrotado o Salvador
+            
+            *MANTEM*
+            Mas não eram os cravos que O prendiam na Cruz
+            Foi o meu pecado que matou Jesus
+            
+            *INTERLUDIO COM ATAQUES*
+            O dia fez-se em trevas e o universo inteiro estremeceu
+            A multidão perdida viu que Aquele era o Filho de Deus
+            
+            *MANTEMM*
+            O véu do templo se rasgou, e hoje eu posso entrar
+            No Santo dos santos,
+            *PREPARAAAAA* 
+            venham adorar
+            
+            *COROOOO*
+            Hoje eu sou livre para amar a Deus
+            Viver vitorioso como um filho Seu
+            Hoje eu sou livre para celebrar
+            O pecado não pode mais me dominar
+            
+            *INTERLUDIO COM FRASE*
+            
+            *AQUI MORRE*
+            *SÓ CHIMBAL E BUMBO*
+            Bem no meio da festa, o diabo começou a ouvir
+            Passos fortes que tremiam toda a terra e foi conferir
+            
+            *VOLTA PREENCHENDO*
+            Quando as portas se abriram, ao Cordeiro viu
+            E como, um Leão, Jesus rugiu
+            
+            *INTERLUDIO COM FRASE E SOBE ALTURA HINO*
+            *VOLTA GROOVE*
+            Caiu como serpente e todo principado se prostrou
+            O Leão de Judá pisou bem forte e os esmagou
+            Tomou as chaves das mãos do diabo
+            *PREPARAAA*
+            Abriu minhas cadeias e me resgatou
+            
+            *GROOVE DO COROOOO*
+            Hoje eu sou livre para amar a Deus
+            Viver vitorioso como um filho Seu
+            Hoje eu sou livre para celebrar
+            O pecado não pode mais me dominar
+            
+            *PREPARA PRA MORRER*
+            *INTERLUDIO COM FRASE E RALENTA FINAL*
+            
+            *SEM BATERAAAAA*
+            No terceiro dia, a pedra do
+            *ALGUNS SURDOS DANDO DESTAQUE*
+            sepulcro rolou
+            E lá chegou, chegou Maria
+            Mas o corpo ela não encontrou
+            
+            *ABRE PRATOS AS VEZES*
+            Um anjo lhe falou que Ele não estava lá
+            Entre os mortos não 
+            *PREPARA OS ATAQUES DEPOIS DA FRASE*
+            devia procurar
+            
+            *PA PA PAAN ATAQUEEEE*
+            *MORRE DE NOVOOO*
+            Viu um jardineiro e perguntou
+            Onde, onde está o meu Senhor?
+            
+            *MANTEM MESMA VIBE*
+            Ele olhou nos seus olhos
+            E pelo nome Ele a chamou
+            
+            *UM TEMPO MAIOR SEM NADA*
+            * VAI VOLTANDO COM A FRASE CRESCENDOO*
+            Ela reconheceu a voz do Mestre
+            *VAI EXPLODIIIIRRR*
+            Raboni! Meu Jesus ressuscitou!
+            
+            *VOLTA GROOVE PESADO*
+            Hoje eu sou livre para amar a Deus
+            Viver vitorioso como um filho Seu
+            Hoje eu sou livre para celebrar
+            O pecado não pode mais me dominar
+            
+            *MANTEM MESMA PEGADAAAAAAAA*
+            Hoje eu sou livre para amar a Deus
+            Viver vitorioso como um filho Seu
+            Hoje eu sou livre para celebrar
+            O pecado não pode mais me dominar
+            
+            *INTERLUDIO COM FRASE*
+            
+            *MANTEM GROOVE MAIS PEGADINHO JR*
+            Ele vive (Ele vive)
+            Ele reina (Ele reina)
+            Ressuscitou (Ressuscitou)
+            É vencedor (É vencedor)
+            *FRASEEEEE*
+            Está sentado (Está sentado)
+            Sobre o trono (Sobre o trono)
+            Só Ele é digno (Só Ele é digno)
+            *VAI CAIR NO LOUVOR*
+            De todo o louvor (De todo o louvor)
+            *VOLTAAAAA*
+            
+            *GROOVE NORMAL*
+            Hoje eu sou livre para amar a Deus
+            Viver vitorioso como um filho Seu
+            Hoje eu sou livre para celebrar
+            O pecado não pode mais me dominar
+            
+            *MANTEM GROOVE MAIS PEGADINHO JR*
+            Ele vive (Ele vive)
+            Ele reina (Ele reina)
+            Ressuscitou (Ressuscitou)
+            É vencedor (É vencedor)
+            *FRASEEEEE*
+            Está sentado (Está sentado)
+            Sobre o trono (Sobre o trono)
+            Só Ele é digno (Só Ele é digno)
+            *VAI CAIR NO LOUVOR*
+            De todo o louvor (De todo o louvor)
+            
+            *VOLTAAA GROOVEEE*
+            Hoje eu sou livre para amar a Deus
+            Viver vitorioso como um filho Seu
+            Hoje eu sou livre para celebrar
+            O pecado não pode mais me dominar
+            
+            *DE NOVOOOOO*
+            Hoje eu sou livre para amar a Deus
+            Viver vitorioso como um filho Seu
+            Hoje eu sou livre para celebrar
+            O pecado não pode mais me dominar
+            
+            *VAI ACABAR COM INTERLUDIO E FRASE DUAS VEZES*
+            *EXPLODE PRATOS*
+            
+            *FIM*
+      
+      
       `      
     },
     {
-      nome: '500',
+      nome: 'O nosso general é Cristo - Lis Avancini',
       letra: `
-        
+            *INTRO*
+            *RESPIRA QUE É TRETA*
+            *FAZ UMA ORAÇÂO ANTES*
+            *VAI COMEÇAR LÁ EM CIMA JÁ*
+            
+            
+            *PA PA PAAANN NENHUM INIMIGO*
+            *ENTRA INIMIGO*
+            
+            Nenhum inimigo nos resistirá
+            
+            *FRASE PRA FINALIZAR MDS*
+            
+            *MEIO TRAP*
+            Pelo Senhor, marchamos sim
+            O Seu exército, poderoso é
+            *FRASEEEE E PRATOS FINAL*
+            E Sua glória será vista em toda terra
+            
+            *VOLTA TRAP*
+            Vamos cantar o canto da vitória
+            Glória Deus, vencemos a batalha
+            *FRASEEEE*
+            Toda arma contra nós perecerá
+            
+            *GROOVE DIFERENCIADO COM DUAS CAIXAS PA PA*
+            O nosso general é Cristo
+            Seguimos os Seus passos
+            Nenhum inimigo nos resistirá
+            
+            *DE NOVOOOO*
+            O nosso general é Cristo
+            Seguimos os Seus passos
+            *FRASE PRA FINALIZAR*
+            Nenhum inimigo nos resistirá
+            *MORREEEEE*
+            
+            *PADS NO TRAP*
+            
+            *SWING NO STACK* 
+            O nosso general não perde as batalhas 
+            (O nosso general não perde as batalhas)
+            Ele é vencedor não vai desamparar não
+            (Ele é vencedor não vai desamparar não)
+            
+            *MANTEM A MESMA POR ENQUANTO*
+            E as muralhas elas não vao ressistir
+            (E as muralhas elas não vao ressistir)
+            Pois ele quer declarar
+            é o seu fimmmm
+            
+            *VAI SUBIR*
+            
+            *TRAP*
+            Pelo Messias, 
+            *FRASE UUU OOO*
+            ooooooo uuu oooooo
+            *CRESCEEEEE*
+            Que nos leva a possuir a Terra Prometida
+            
+            *LEVADA TRAP*
+            Pelo Messias, marchamos sim
+            Em suas mãos, a chave da vitória
+            *FRASE E SOBE*
+            Que nos leva a possuir a Terra Prometida
+            
+            
+            *MESMA LEVADA LA EM CIMA*
+            O nosso general é Cristo
+            Seguimos os seus passos
+            Nenhum inimigo nos resistirá
+            
+            *MANTEM O MESMO*
+            O nosso general é Cristo
+            Seguimos os seus passos
+            Nenhum inimigo nos resistirá
+            
+            *FRASE PRA FINALIZAR LÁ EM CIMA*
+            Nenhum inimigo nos resistirá
+            * PREPARA PRO FINAL*
+            Nenhum inimigo nos 
+            *PA PA PAAAAAAAN*
+            resistirá
+            
+            *EXPLODE PRATO*
+            
+            
+            *FIM*
       `      
     },
     {

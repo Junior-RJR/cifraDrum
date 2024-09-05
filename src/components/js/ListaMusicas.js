@@ -25,6 +25,9 @@ const ListaMusicas = () => {
     'Digno é o Senhor',
     'Tu és Santo',
     'Não há Barreiras',
+    'A Vitória da Cruz',
+    'O Leão e o Cordeiro',
+    'O nosso general é Cristo - Lis Avancini',
   ];
 
 const [searchTerm, setSearchTerm] = useState('');
