@@ -10,9 +10,9 @@ const Login = () => {
   const navigate = useNavigate();
 
   const handleLogin = () => {
-    if ((usuario === 'junior' && senha === 'rjrdrum') || 
+    if ((usuario === 'junior' && senha === '3009') || 
     (usuario === 'bruno' && senha === '123') || 
-    (usuario === 'batera' && senha === 'arabaio')) 
+    (usuario === 'batera' && senha === '0000')) 
     
     {
       localStorage.setItem('authToken', 'authenticated'); 
@@ -43,6 +43,8 @@ const Login = () => {
             value={senha}
             onChange={(e) => setSenha(e.target.value)}
             className="login-input"
+            inputMode="numeric" // Mostra o teclado numérico
+            pattern="[0-9]*" 
           />
           {error && <p className="error-message">{error}</p>}
           <button onClick={handleLogin} className="login-button">Logar</button>
