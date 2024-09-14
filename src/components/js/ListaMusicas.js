@@ -7,7 +7,8 @@ const ListaMusicas = () => {
 
   const musicas = [
     '500 graus',
-    // 'Louve',
+    'Louve',
+    'Estamos de Pé',
     // 'Medley, Corinho de Fogo',
     'Escape',
     'Jeová Jireh',
@@ -15,7 +16,7 @@ const ListaMusicas = () => {
     'Santo pra Sempre',
     // 'Ele Vem',
     'Eu Te Louvarei',
-    'Na Unção de Deus',
+    'Na Unção de Deus - PRAISE',
     'Quem é como nosso Deus',
     'Dependente',
     'Sala do Trono',
@@ -29,6 +30,9 @@ const ListaMusicas = () => {
     'A Vitória da Cruz',
     'O Leão e o Cordeiro',
     'O nosso general é Cristo - Lis Avancini',
+    'Te Agradeço - PC Baruk',
+    'Ele Vem - PRAISE',
+    'Ditosa Cidade'
   ];
 
 const [searchTerm, setSearchTerm] = useState('');

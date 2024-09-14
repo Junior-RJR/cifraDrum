@@ -9,19 +9,16 @@ const Musicas = () => {
   const musica = musicasData.find(m => m.nome === decodeURIComponent(nomeMusica));
 
   const [isScrolling, setIsScrolling] = useState(false);
-  const [scrollSpeed, setScrollSpeed] = useState(1);
+  const [scrollSpeed, setScrollSpeed] = useState(1); 
   const letraRef = useRef(null);
-
-  const scrollContent = () => {
-    if (letraRef.current) {
-      const element = letraRef.current;
-      element.scrollTop += scrollSpeed; 
-    }
-  };
 
   useEffect(() => {
     if (isScrolling) {
-      const scrollInterval = setInterval(scrollContent, 50);
+      const scrollInterval = setInterval(() => {
+        if (letraRef.current) {
+          letraRef.current.scrollTop += scrollSpeed;
+        }
+      }, 100 - scrollSpeed * 10);
       return () => clearInterval(scrollInterval);
     }
   }, [isScrolling, scrollSpeed]);
@@ -31,9 +28,7 @@ const Musicas = () => {
   };
 
   const handleSliderChange = (event) => {
-    const value = Number(event.target.value);
-    const adjustedSpeed = value / 10;
-    setScrollSpeed(adjustedSpeed); 
+    setScrollSpeed(Number(event.target.value));
   };
 
   if (!musica) {
@@ -55,10 +50,10 @@ const Musicas = () => {
         </button>
         <input
           type="range"
-          min="1"
-          max="100"
-          step="1"
-          value={scrollSpeed * 10}
+          min="0.2"
+          max="5"
+          step="0.2" 
+          value={scrollSpeed}
           onChange={handleSliderChange}
           className="scroll-slider"
         />
