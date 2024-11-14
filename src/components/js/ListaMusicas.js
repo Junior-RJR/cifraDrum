@@ -32,7 +32,10 @@ const ListaMusicas = () => {
     'O nosso general é Cristo - Lis Avancini',
     'Te Agradeço - PC Baruk',
     'Ele Vem - PRAISE',
-    'Ditosa Cidade'
+    'Ditosa Cidade',
+    'Abraço do Noivo',
+    'Casa do Pai',
+    'O medo não vai me parar',
   ];
 
 const [searchTerm, setSearchTerm] = useState('');

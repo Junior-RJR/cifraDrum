@@ -3224,20 +3224,439 @@ const musicasData = [
       `      
     },
     {
-      nome: '500',
+      nome: 'Abraço do Noivo',
       letra: `
+
+
+
+
+
+
+
+
+
+
+            *INTRO*
+            *COMEÇA COM BERRANTE*
+            *ABRE NOS PRATOS*
+            
+            *SÓ TECLAS*
+            
+            *ENTRA NA SEGUNDA TRIBALZINHO*
+            *VAI MORRER*
+            
+            *SEM BATERA*
+            Quantas vezes na terra
+            Afligida e humilhada, a noiva sofreu?
+            Calada, foi aprisionada e jamais desistiu
+            *TRIBAL NO FINAL*
+            
+            *MANTEM TRIBAL*
+            Cada lágrima da igreja, o Noivo colhia
+            *MORRE TRIBAL*
+            E esse cuidado cada vez mais crescia
+            E a noiva sabia que o encontro dos séculos aconteceria
+            
+            *ALGUNS TAMBORES*
+            *TRIBAL DE LEVIS*
+            E o Noivo no céu, preparando o paraíso
+            Pra encontrar sua noiva e lhe dar o infinito
+            E do céu, está a olhar
+            
+            *MANTEM MESMA VIBE*
+            Ele vê sua noiva, insistente e fiel
+            Guerreira nas batalhas para estar lá no céu
+            Que não para de clamar e não cessa de dizer
+            Ora vem, Senhor Jesus
+            
+            *MORRE*
+            *SEM BATERA*
+            E a igreja, noiva amada subirá, pra seu Noivo encontrar
+            E eternamente O adorar, 
+            *VOLTA TRIBAL CRESCENTE*
+            adorar
+            *MORREEEEEE*
+            
+            *SEM BATERA
+            E eu verei, os Seus lábios se abrirem
+            Para pronunciar meu novo
+            *VOLTA TRIBAL*
+            nome
+            *MORREEE*
+            *SEM BATERA*
+            E eu irei, e correrei, 
+            *TRIBAL*
+            e O abraçarei, e O abraçarei
+            
+            *CRESCE E GROOOVE*
+            A noiva amada, adornada para o Noivo
+            No Santo dos santos, adorando com os anjos
+            Vai trocar as lágrimas pelo galardão
+            Igreja amada em seu coração
+            
+            *MANTEM MESMA VIBE*
+            O inferno e a terra estremecerão
+            Ao som da trombeta e a igreja subirá
+            Vai romper o infinito e abraçar a Jesus
+            Vai receber coroa em troca da cruz
+            *CAIIIUU*
+            *SEM BATERA*
+            Para sempre, para sempre
+            
+            *SEM AINDA, BEM DEBOAS PRATINHOS*
+            E nada jamais quebrará a aliança
+            Para sempre a igreja é santa
+            Para adorar o Rei,
+            *PREPARA PRA CRESCENTE COM CAIXA E BUMBO*
+            *VAIII*
+            o meu Rei
+            
+            *LÁ EM CIMA COM GROOVE*
+            O Altíssimo, Tremendo e Digno, Mestre e Senhor
+            Adorado no Universo, a Essência do Amor
+            A Estrela da Manhã, Vencedor, Shekinah
+            Vem e abraça este lugar
+            
+            *MANTEM MESMA VIBE*
+            Sinta igreja, a presença marcante do Noivo
+            O amor, a unção e o fogo
+            *NO NOIVO A FRASE COLADINHAAA*
+            Sinta o toque do Noivo
+            Sinta o abraço do Noivo
+            
+            *VAI CAIRRRR*
+            
+            *SEM BATERA*
+            O Noivo vem, sim, Ele vem pra buscar a noiva
+            Que adornada, está preparada
+            Para subir ao céu, em glória
+            
+            *MANTEM SEM*
+            O Noivo vem, sim, Ele vem pra buscar a noiva
+            Que adornada, está preparada
+            Para subir ao céu, em glória
+            
+            Assim como o relâmpago, sai do Oriente
+            E se mostra até o Ocidente
+            Assim há de ser a vinda do Noivo
+            Para encontrar sua noiva
+            E a noiva somos nós, lavados pelo sangue do Cordeiro
+            Cidadãos e herdeiros do céu, então, preparam-te Israel
+            Prepara-te para encontrares com o Senhor, teu Deus
+            Diga: Maranata, ora vem, Senhor Jesus
+            
+            
+            *MANTEM SEM BATERIA*
+            Vem, vem, o Noivo vem, vem, sim, Ele vem, aleluia
+            Vem, vem, vem
+            
+            Vem, vem, o Noivo vem, vem, sim, Ele vem, aleluia
+            Vem, vem, vem
+            
+            *MANTEM SEM BATERIA*
+            Vem, vem, o Noivo vem, vem, sim, Ele vem, aleluia
+            *CRESCEEEEEEE*
+            Vem, vem, vem
+            
+            *LÁ EM CIMA GROOVEZAO*
+            Vem, Tremendo e Digno, Mestre e Senhor
+            Adorado no Universo, a Essência do Amor
+            A Estrela da Manhã, Vencedor, Shekinah
+            Vem e abraça este lugar
+            
+            *MANTEM MESMA PEGADA*
+            Sinta igreja, a presença marcante do Noivo
+            O amor, a unção e o fogo
+            *MARCADO NO NOIVOOOO*
+            Sinta o toque do Noivo
+            Sinta o abraço do Noivo
+            *NO ULTIMO NOIVO RALENTA*
+            Sinta a presença do Noivo
+            
+            *EXPLODE PRATOOO*
+            
+            *FIM*
+      
+      
+      
+      
+      
         
       `      
     },
     {
-      nome: '500',
+      nome: 'Casa do Pai',
       letra: `
         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  *INTRO*
+            *SÓ TECLAS*
+
+            *VIBE WORSHIP*
+
+
+            *SEM BATERA*
+            Casa do Pai, o meu lugar de abrigo
+            Casa de paz, onde eu me sinto querido
+
+            *MANTEM A MESMA VIBEZINHA*
+            Casa do pão, onde há partilha e entrega
+            Casa do Eu sou, vim Te adorar em Tua casa
+
+            *ALGUNS PRATINHOS DE LEVIS*
+            Eu vim me entregar a Ti
+            Me esvaziar de mim
+            Deixar o meu pecado, Pai
+            E receber o Teu perdão
+            Aquece o meu coração
+            E enche-me de Ti, oh Deus
+            Mais uma vez
+
+            *PREPARAAAA*
+            *INTERLUDIO DO OOO OOOOH*
+            *LEVADINHA DE LEVE RIDE E CAIXA E BUMBO*
+
+            *VOLTA GROOVEZINHO*
+            Casa de luz, onde sou desafiado
+            Casa da cruz, onde o pecado é lavado
+
+            *MANTEM A MESMA VIBE DO GROOVE*
+            Casa da voz que alimenta minha alma
+            Casa do Eu sou, vim Te adorar em Tua casa
+
+            *GROOVE WORSHIPAOOOOOO*
+            Eu vim me entregar a Ti
+            Me esvaziar de mim
+            Deixar o meu pecado, Pai
+            E receber o Teu perdão
+            Aquece o meu coração
+            E enche-me de Ti, oh Deus
+            Mais uma vez
+
+            *MANTEM GROOVE WORSHIPAOOOOOO*
+            Eu vim me entregar a Ti
+            Me esvaziar de mim
+            Deixar o meu pecado, Pai
+            E receber o Teu perdão
+            Aquece o meu coração
+            E enche-me de Ti, oh Deus
+            Mais uma vez
+
+            *INTERLUDIO LÁ EM CIMAAA*
+            *MANTEM PEGADA*
+
+            *MORREEEEE*
+
+            *SEM BATERA*
+            Eu amo estar contigo
+            Tu tens me sustentado
+            Tu és o meu abrigo
+            Em Ti encontro amparo
+            *VAI CRESCERRRR*
+            Agora eu Te adoro
+            O coração eu abro
+            Diante de Ti 
+
+            *CRESCE E PARA PRO CORO E VOLTAAA*
+
+            *GROOVE WORSHIPAOOOOOO*
+            Eu vim me entregar a Ti
+            Me esvaziar de mim
+            Deixar o meu pecado, Pai
+            E receber o Teu perdão
+            Aquece o meu coração
+            E enche-me de Ti, oh Deus
+            Mais uma vez
+
+            *MANTEM GROOVE WORSHIPAOOOOOO*
+            Eu vim me entregar a Ti
+            Me esvaziar de mim
+            Deixar o meu pecado, Pai
+            E receber o Teu perdão
+            Aquece o meu coração
+            E enche-me de Ti, oh Deus
+            Mais uma vez
+
+            *INTERLUDIO DO OOOH OOOHH LÁ EM CIMA*
+            *VIBE BEM WORSHIPAO*
+
+            *EXPLODE NOS PRATOS*
+
+            *FIM*
+
+
+
+
+
+
+
       `      
     },
     {
-      nome: '500',
+      nome: 'O medo não vai me parar',
       letra: `
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    *INTRO*
+              *SÓ TECLAS*
+
+
+              *SEM BATERAAA*
+              Eu vi o fogo, mas a sarça não queimava
+              Ouvi Tua voz e tirei minhas sandálias
+
+              *MANTEEMMM*
+              Que presença é essa?
+              Eu não resisti
+              Que presença é essa?
+              Me escondi de Ti
+              Que presença é essa?
+              Eu não resisti
+              Que presença é essa?
+              O "Eu Sou" está aqui
+
+              *ABRE PRATOS*
+              *E LEMBRA DOS ACENTOS NAS FRASES*
+              Vem com Teu poder
+              Faz o Teu querer
+              Tu tens o controle de mim
+
+              *MESMA COISAA*
+              Traz o Teu mover
+              Faz o céu descer
+              Minha vida entrego a Ti
+
+              *TRIBAL COM RIDE DE BOAS*
+              Eu só quero Te conhecer
+              Eu só quero Te conhecer
+
+              *MORREEEEEEEE*
+              *SEM BATERA*
+              Que presença é essa?
+              Eu não resisti
+              Que presença é essa?
+              Me escondi de Ti
+
+              *VAI CRESCENDOOO*
+              Que presença é essa?
+              Eu não resisti
+              Que presença é essa?
+              O "Eu Sou" está aqui
+
+              *EXPLODEEE CRESCEEE*
+              *GROOVAO E PRATO NAS FRASES*
+              Vem com Teu poder
+              Faz o Teu querer
+              Tu tens o controle de mim
+
+              *MANTEM A MESMA VIBE*
+              Traz o Teu mover
+              Faz o céu descer
+              Minha vida entrego a Ti
+
+              *CONTINUAAAA*
+              Eu só quero Te conhecer
+              Eu só quero Te conhecer
+
+              *DE NOVO LÁ EM CIMAAAA*
+              Vem com Teu poder
+              Faz o Teu querer
+              Tu tens o controle de mim
+
+              *MANTEMMMMMMMMMM TA TOP*
+              Traz o Teu mover
+              Faz o céu descer
+              Minha vida entrego a Ti
+
+              *CONTINUAAAA*
+              Eu só quero Te conhecer
+              Eu só quero Te conhecer
+
+              *VAI PARAAAAR*
+              *AQUI EH SOH TECLAS*
+              O medo não vai me parar
+              O grande "Eu Sou" comigo está, hey
+
+              *ENTRA BATERAAA FAZ TEU NOME KKKK*
+              Mesmo que o mar esteja em frente
+              Tenho certeza que eu vou passar
+
+              *NA MESMA*
+              O medo não vai me parar
+
+              *VEM NO TRIBAL DANDO SWINGÃO*
+              O medo não vai me parar
+              O grande "Eu Sou" comigo está
+
+              *TA LINDUUU AMNTEM*
+              Mesmo que o mar esteja em frente
+              Tenho certeza que eu vou passar
+              O medo não vai me parar, hey, hey
+
+              *MANTEEEEMMMMMMMMMM*
+              O medo não vai me parar
+              O grande "Eu Sou" comigo está
+              Mesmo que o mar esteja em frente
+              Tenho certeza que eu vou passar
+              O medo não vai me parar
+
+              *PREPARAAA*
+              *MORREEEEEEE*
+
+              *SEM BATERA*
+              Vem com Teu poder
+              Faz o Teu querer
+              Tu tens o controle de mim
+
+              *MANTEM*
+              Traz o Teu mover
+              Faz o céu descer
+              Minha vida entrego a Ti
+
+              *SEM BATERA*
+              Eu só quero Te conhecer
+              Eu só quero Te conhecer
+
+              *ABRE NOS PRATOS PRA FINALIZAR*
+
+
+
+
+              *FIM*
+
+
+
+
+
+
+
         
       `      
     },
