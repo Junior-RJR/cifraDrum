@@ -36,6 +36,13 @@ const ListaMusicas = () => {
     'Abraço do Noivo',
     'Casa do Pai',
     'O medo não vai me parar',
+    'Lindo Momento',
+    'Ele Cumprirá',
+    'Sinto fluir',
+    'Pai de Amor',
+    'Se Deus é por nós',
+    'Yeshua - Julliany Souza',
+    'A tua mesa cura',
   ];
 
 const [searchTerm, setSearchTerm] = useState('');

@@ -107,7 +107,7 @@ playlistCulto: [
         nome: 'Ele Cumprirá',
       },
       {
-        nome: 'Sinto Fluir',
+        nome: 'Sinto fluir',
       },
       {
         nome: 'Pai de Amor',
@@ -116,13 +116,13 @@ playlistCulto: [
         nome: 'Se Deus é por nós',
       },
       {
-        nome: 'Yeshua - Jullyany Souza',
+        nome: 'Yeshua - Julliany Souza',
       },
       {
         nome: 'Louve',
       },
       {
-        nome: 'A Tua mesa cura',
+        nome: 'A tua mesa cura',
       }
     ]
   };

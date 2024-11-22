@@ -2885,7 +2885,7 @@ const musicasData = [
               
               
               *MANTEM*
-              NAO DIMINUI O BEAT*
+              *NAO DIMINUI O BEAT*
               Eu louvo nos vales, louvo nos montes
               Eu louvo no dia e louvo na noite
               Eu louvo se vejo que estou cercado
@@ -3661,45 +3661,1105 @@ const musicasData = [
       `      
     },
     {
-      nome: '500',
+      nome: 'Lindo Momento',
       letra: `
-        
+      *INTRO*
+      *teclado e violao*	
+      
+      *sem batera*
+      
+      
+      *ABRE NOS PRATOS*
+      *SEM BATERA*
+      Tão lindo é cada momento
+      Que me visita e faz de mim o Teu altar
+      Quero ir Contigo mais profundo
+      Segura a minha mão, eu sei, nunca vai soltar
+      
+      *AINDA SEM BATERA*
+      Tão lindo é cada momento
+      Que me visita e faz de mim o Teu altar
+      Quero ir Contigo mais profundo
+      Segura a minha mão, eu sei, nunca vai soltar
+      
+      *ABRE NOS PRATOS*
+      *SEM BATERA*
+      Leva-me ao lugar
+      Onde só Você e eu
+      Desfrutamos o momento
+      
+      *MANTEM SEM BATERA*
+      Te amo, meu Papai
+      Eu dependo desse amor
+      E, sem Ti, eu sei que morro
+      Ooh, sem Ti, Deus
+      *ABRE PRATOS*
+      
+      *INTERLUDIO SEM BATERA*
+      
+      *SEM BATERA AINDA CARAAA*
+      Tão lindo é cada momento
+      Que me visita e faz de mim o Teu altar
+      Quero ir Contigo mais profundo
+      Segura a minha mão, eu sei, nunca vai soltar
+      
+      *AINDA SEM*
+      Tão lindo é cada momento
+      Que me visita e faz de mim o Teu altar
+      Quero ir Contigo mais profundo
+      Segura a minha mão, eu sei, nunca vai soltar
+      
+      *ABRE NOS PRATOS*
+      *RIDEIZINHO*
+      Leva-me ao lugar
+      Onde só Você e eu
+      Desfrutamos o momento
+      
+      *MESMA VIBEZINHA NO RIDE*
+      Te amo, meu Papai
+      Eu dependo desse amor
+      E, sem Ti, eu sei que morro
+      
+      *ABRE PRATOS E CRESCE POUQUINHO NOS PRATOS*
+      Leva-me ao lugar
+      Onde só Você e eu
+      Desfrutamos o momento
+      
+      *MANTEM*
+      Te amo, meu Papai
+      Eu dependo desse amor
+      E, sem Ti, eu sei que morro
+      
+      *INTERLUDIO*
+      *SEM BATERA*
+      Eu morro
+      Eu não suportaria
+      Eu morreria sem Ti
+      Sem Ti, Deus
+      
+      *ABRE PRATOS*
+      *SEM BATERA*
+      Me enxergou na minha tormenta
+      Me livrou em meus problemas
+      Transformou minha tristeza
+      E mudou minha vida inteira
+      
+      *MANTEM MESMA VIBE*
+      Me vestiu com roupas novas
+      Pôs azeite em minha cabeça
+      Me deu um lugar na mesa
+      O meu Pai não me rejeita
+      
+      *PREPARA*
+      *ABRE PRATOS E VAI DANDO DINAMICA*
+      Me enxergou na minha tormenta
+      Me livrou em meus problemas
+      Transformou minha tristeza
+      E mudou minha vida inteira
+      
+      *MANTEM*
+      Me vestiu com roupas novas
+      Pôs azeite em minha cabeça
+      Me deu um lugar na mesa
+      O meu Pai não me rejeita
+      
+      
+      *PREPARA*
+      *VAI CRESCENDO PA PA PA PA*
+      Me enxergou na minha tormenta
+      Me livrou em meus problemas
+      Transformou minha tristeza
+      E mudou minha vida inteira
+      
+      *LÁ EM CIMA MANTEM PA PA PA*
+      Me vestiu com roupas novas
+      Pôs azeite em minha cabeça
+      Me deu um lugar na mesa
+      O meu Pai
+      
+      *EXPLODEEE*
+      *GROOVE COM TRIBAL*
+      Me enxergou na minha tormenta
+      Me livrou em meus problemas
+      Transformou minha tristeza
+      E mudou minha vida inteira
+      
+      *MANTEM MESMA VIBE*
+      Me vestiu com roupas novas
+      Pôs azeite em minha cabeça
+      Me deu um lugar na mesa
+      O meu Pai não me rejeita
+      
+      *EXPLODEEEEEEEE*
+      *PAUSA PRA ENTRAR*
+      
+      *GROOVE WORSHIPÃO*
+      Leva-me ao lugar
+      Onde só Você e eu
+      Desfrutamos o momento
+      
+      *MANTEM*
+      Te amo, meu Papai
+      Eu dependo desse amor
+      E, sem Ti, eu sei que morro, Deus
+      
+      *MANTEM VIBE LAH EM CIMA COM TRIBAL*
+      Me enxergou na minha tormenta
+      Me livrou em meus problemas
+      Transformou minha tristeza
+      E mudou minha vida inteira
+      
+      *MESMA COISA*
+      Me vestiu com roupas novas
+      Pôs azeite em minha cabeça
+      Me deu um lugar na mesa
+      O meu Pai não me rejeita
+      
+      *MORREEEEEE*
+      
+      *SEM BATERA*
+      Leva-me ao lugar
+      Onde só Você e eu
+      Desfrutamos o momento
+      Te amo, meu Papai
+      Eu dependo desse amor
+      E, sem Ti, eu sei que morro
+      
+      *ABRE NOS PRATOS*
+      
+      
+      *FIM*
+      
+      
       `      
     },
     {
-      nome: '500',
+      nome: 'Ele Cumprirá',
       letra: `
         
+
+
+
+
+
+
+
+
+      *INTRO*
+*teclado e baixao*	
+
+
+*SEM BATERA*
+Agindo Deus, quem impedirá?
+Se ele é por nós
+Quem contra nós será?
+Quem contra nós será?
+
+*AINDA SEM BATERA*
+O bom pastor não vai deixar faltar
+Não vou temer
+Eu só preciso crer
+Eu só preciso crer
+
+*PREPARA*
+*ENTRA ALGUNS TONS*
+*BEM SUAVE*
+Quem me prometeu não é homem para mentir
+Nem filho do homem pra se arrepender
+
+*MESMA VIBE DE TAMBORES*
+Quem me prometeu não é homem para mentir
+Nem filho do homem pra se arrepender
+
+*ABRE PRATOS*
+*SEM BATERAAA*
+O meu Deus nunca falhou
+E não falhará, Ele cumprirá
+Terra e céus passarão
+Mas Sua palavra permanecerá
+
+*PREPARAAAAA*
+*ENTRA COM TRIBAL RIDE E CAIXA DUPLA PAPA*
+Quem me prometeu não é homem para mentir
+Nem filho do homem pra se arrepender
+
+*DOBRA BUMBO*
+Quem me prometeu não é homem para mentir
+*VAI CRESCENDO*
+Nem filho do homem pra se arrepender
+
+*LÁ EM CIMA GROOVEZÃO*
+O meu Deus nunca falhou
+E não falhará, Ele cumprirá
+Terra e céus passarão
+Mas Sua palavra permanecerá
+
+*DE NOVO LÁ EM CIMA*
+*TEM O CONTRA NO FINAL DO DEUS*
+O meu Deus nunca falhou
+E não falhará, Ele cumprirá
+Terra e céus passarão
+Mas Sua palavra permanecerá
+
+*NA CABEÇA PA PA PA*
+Quem me prometeu não é homem para mentir
+Nem filho do homem pra se arrepender
+
+*DOBRA PAPA PAPA PAPA*
+Quem me prometeu não é homem para mentir
+Nem filho do homem pra se arrepender
+
+*VAI MORRER*
+
+*SEM BATERA
+O meu Deus nunca falhou
+E não falhará, Ele cumprirá
+Terra e céus passarão
+Mas Sua palavra permanecerá
+
+*INTERLUDIO*
+
+*SEM BATERA*
+Nunca falhou, nunca falhou
+E não falhará, e não falhará
+Nunca falhou, nunca falhou
+E não falhará, e não falhará
+
+*VAI CRESCENDO AOS POUCOS*
+Nunca falhou, nunca falhou
+E não, Ele não falhará, Ele não falhará
+
+*VAI MANTENDO A MESMA*
+As gerações podem passar, os governos podem mudar
+Mas Ele não muda, Ele não muda
+Ele é fiel, oh, Ele é fiel
+
+*GROOVE BEM DEBOOOOOAAAAAASS**
+Ele foi fiel ontem
+É fiel hoje
+E sempre, sempre, sempre, sempre, sempre será
+
+*MANTEM A MESMA PEGADINHA*
+*CAIXA NO CONTRA*
+Ele foi fiel ontem
+Ele é fiel hoje
+E sempre, sempre, e sempre será
+Ele é, Ele é, Ele é
+
+*CRESCE PA PA PA PA*
+E Ele foi fiel ontem
+Ele é fiel hoje
+E sempre, sempre, e sempre será
+
+*EXPLODEEEEEEEE*
+*SOH NA CABEÇA PA PA PA PA*
+Quem me prometeu não é homem para mentir
+Nem filho do homem pra se arrepender
+
+*MANTEM A MESMA PEGADA MAS DOBRA BUMBO*
+Quem me prometeu não é homem para mentir
+Nem filho do homem pra se arrepender
+
+*VAI MORRER*
+
+*SEM BATERA*
+O meu Deus nunca falhou
+E não falhará, Ele cumprirá
+Terra e céus passarão
+Mas Sua palavra permanecerá
+
+*ABRE NOS PRATOS*
+
+
+*FIM*
+
+
       `      
     },
     {
-      nome: '500',
+      nome: 'Sinto fluir',
       letra: `
-        
+      *INTRO*
+      *SOOH TECLAS*	
+      
+      
+      *SEM BATERA*
+      Eu procurei em outro lugar
+      Em outras pessoas
+      Em tantas coisas
+      
+      *MANTEM SEM*
+      Eu procurei em outro lugar
+      Em outras pessoas
+      Em tantas coisas
+      
+      *SEM BATERA AINDA*
+      Mas descobri Teu rio em mim
+      E transbordei do Teu amor
+      
+      *ABRE PRATOS*
+      Sinto fluir Teu rio de vida aqui, ooh
+      Sinto fluir Teu rio de vida aqui
+      
+      
+      *PREPARAA*
+      
+      *VEM NO GROOVEZAO WHORSHIP*
+      Eu procurei em outro lugar
+      Em outras pessoas
+      Em tantas coisas
+      
+      *MANTEM A MESMA VIBE*
+      Eu procurei em outro lugar
+      Em outras pessoas
+      Em tantas coisas
+      
+      *CONTINUAAA*
+      *PREENCHE MAIS COM BUMBO*
+      Mas descobri Teu rio em mim
+      E transbordei do Teu amor
+      
+      *VAI CRESCENDO*
+      *GROOVEZÃO COM TAMBORES*
+      Sinto fluir Teu rio de vida aqui, ooh
+      Sinto fluir Teu rio de vida aqui
+      
+      *VAI MORRER*
+      
+      *SEM BATERA*
+      Eu quero beber de Tuas águas
+      Eu quero beber da Tua fonte
+      Vou mergulhar no Teu rio
+      Vou mergulhar no Teu rio
+      
+      *VAI ENTRAR*
+      *ABRE PRATOS*
+      
+      *VEM NOS TAMBORES E PRATOS*
+      Eu quero beber de Tuas águas
+      Eu quero beber da Tua fonte
+      Vou mergulhar no Teu rio
+      Vou mergulhar no Teu rio
+      
+      *DOBRA PAPAPAPA PAPAPAPA*
+      Eu quero beber de Tuas águas
+      Eu quero beber da Tua fonte
+      Vou mergulhar no Teu rio
+      Vou mergulhar no Teu rio
+      
+      *MANTEM NA MESMA*
+      Eu quero beber de Tuas águas
+      Eu quero beber da Tua fonte
+      Vou mergulhar no Teu rio
+      Vou mergulhar
+      
+      *VEM NO GROOVEZAO PESADO*
+      Sinto fluir Teu rio de vida aqui, ooh
+      Sinto fluir Teu rio de vida aqui
+      
+      *MANTEM LAH EM CIMAAAA*
+      
+      *GROOVE AINDA PEGADO*
+      Eu quero beber de Tuas águas
+      Eu quero beber da Tua fonte
+      Vou mergulhar no Teu rio
+      Vou mergulhar no Teu rio
+      
+      *MANTEM A MESMA*
+      Eu quero beber de Tuas águas
+      Eu quero beber da Tua fonte
+      Vou mergulhar no Teu rio
+      Vou mergulhar
+      
+      *PREPARA*
+      *MORREEEEEE*
+      
+      *SEM BATERA*
+      Sinto fluir Teu rio de vida aqui, ooh
+      Sinto fluir Teu rio de vida aqui
+      
+      *SEM BATERA*
+      Eu quero beber de Tuas águas
+      Eu quero beber da Tua fonte
+      Vou mergulhar no Teu rio
+      Vou mergulhar no Teu rio
+      
+      *MANTEM MESMA VIBE
+      Eu quero beber de Tuas águas
+      Eu quero beber da Tua fonte
+      Vou mergulhar no Teu rio
+      Vou mergulhar no Teu rio
+      
+      *SEM BATERA OU PAD*
+      Eu quero beber de Tuas águas
+      Eu quero beber da Tua fonte
+      Vou mergulhar no Teu rio
+      Vou mergulhar no Teu rio
+      
+      *PRATOOOS NA CABEÇA TEMPO 1*
+      Eu quero beber de Tuas águas
+      Eu quero beber da Tua fonte
+      *VAI CRESCER*
+      Vou mergulhar no Teu rio
+      
+      *EXPLODEE*
+      *GROOVE LÁ EM CIMA*
+      Sinto fluir Teu rio de vida aqui, ooh
+      Sinto fluir Teu rio de vida aqui
+      
+      *PREPARAAA PRA CAIR*
+      *MORREEE*
+      
+      *SEM BATERA
+      Sinto fluir Teu rio de vida aqui, ooh
+      Sinto fluir Teu rio de vida aqui
+      
+      
+      *ABRE NOS PRATOS*
+      
+      
+      *FIM*
+      
+      
       `      
     },
     {
-      nome: '500',
+      nome: 'Pai de Amor',
       letra: `
         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      *INTRO*
+*SOOH TECLAS*	
+
+
+*SEM BATERA*
+Meus pensamentos sobre ti
+São bem mais altos do que os seus
+
+*MANTEM A MESMA PEGADA*
+*SEM BATERA*
+E mesmo antes de nascer
+Eu já pensava em você
+
+*ABRE PRATOS*
+E em nenhum segundo
+Eu te abandonei
+Em todo tempo eu estou
+Sempre com você
+
+*MANTEM SEM BATERA*
+Então não tenhas medo
+Fui eu quem te escolhi
+Por que eu sou
+*PREPARA PRA ABRIR NOS PRATOS*
+Um Pai de Amor
+
+*EXPLODE NOS PRATOS*
+Não sou mais órfão
+*FICA NOS PRATOS*
+Eu tenho um Pai
+O amor me adotou
+Agora filho sou
+
+*INTERLUDIO*
+*TRIBAL COM CAIXA*
+
+*GROOVE COM TAMBORES E CAIXA*
+E em nenhum segundo
+Eu te abandonei
+Em todo tempo eu estou
+Sempre com você
+
+*MANTEM A MESMA MAS CRESCE COM PRATOS*
+Então não tenhas medo
+Fui eu quem te escolhi
+Por que eu sou
+*PREPARA PRA SUBIR*
+Um Pai de Amor
+
+*GROOVEZAOOOOOO*
+Não sou mais órfão
+Eu tenho um Pai
+O amor me adotou
+Agora filho sou
+
+*MANTEM GROOVEZAOOOOOO*
+Não sou mais órfão
+Eu tenho um Pai
+O amor me adotou
+Agora filho sou
+
+*MANTEM GROOVEZAOOOOOO*
+Não sou mais órfão
+Eu tenho um Pai
+O amor me adotou
+Agora filho sou
+
+*MANTEM GROOVEZAOOOOOO*
+Não sou mais órfão
+Eu tenho um Pai
+O amor me adotou
+Agora filho sou
+*PREPARA PRA CAIR*
+
+*MORREEEE*
+
+*SEM BATERA*
+O teu amor me atraiu
+Tua graça me alcançou
+O meu Pai fez tudo novo
+Agora eu sei quem eu sou
+
+*AINDA SEM BATERA*
+O teu amor me atraiu
+Tua graça me alcançou
+O meu Pai fez tudo novo
+*PREPARA PRA CRESCERRR*
+Agora eu sei quem eu sou
+
+*NA CABEÇA EXPLODE UMA*
+O teu amor me atraiu
+*EXPLODE DUAS DEPOIS*
+Tua graça me alcançou
+O meu Pai fez tudo novo
+Agora eu sei quem eu sou
+
+*DIRETO PA PA PA*
+O teu amor me atraiu
+Tua graça me alcançou
+O meu Pai fez tudo novo
+Agora eu sei quem eu sou
+
+*GROOVEZAOOOOOO*
+Não sou mais órfão
+Eu tenho um Pai
+O amor me adotou
+Agora filho sou
+
+*MANTEM GROOVEZAOOOOOO*
+Não sou mais órfão
+Eu tenho um Pai
+O amor me adotou
+Agora filho sou
+*PREPARAAA*
+*MORREEEE*
+
+*SEM BATERA*
+Não sou mais órfão
+Eu tenho um Pai
+O amor me adotou
+Agora filho sou
+
+*MANTEM SEM BATERA*
+Não sou mais órfão
+Eu tenho um Pai
+O amor me adotou
+Agora filho sou
+
+*FINALIZA NOS PRATOS*
+
+
+*FIM*
+
+
       `      
     },
     {
-      nome: '500',
+      nome: 'Se Deus é por nós',
       letra: `
         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      *INTRO*
+*ABRE PRATOS*
+
+*BUMBO NO TEMPO UM COM PRATOS*	
+
+
+*DOIS TONS PUNN PUNNN LEVADA NO ARO*
+Seja forte, corajoso
+Não tenha medo, não desanime
+
+*MEMSA VIBE
+Seja forte, corajoso
+Não tenha medo, não desanime
+
+*ABRE PRATOS*
+*TRIBAL SUAVE BUMBO RETO*
+O que diremos, pois, diante dessas coisas
+Se Deus é por nós quem será (contra nós?)
+
+*MANTEM MESMA VIBE*
+O que diremos, pois, diante dessas coisas
+*VAI CRESCERR LÁ EM CIMAAA*
+*PA PA PA*
+Se Deus é por nós quem será contra nós?
+
+*GROOVE LAH EM CIMA*
+O meu Deus, ele vai com você
+Ele nunca te deixará
+O meu Deus nunca te deixou
+Nem te abandonará, nem te abandonará, não, não
+
+*MANTEM MESMA PEGADAAAA*
+O meu Deus, ele vai com você
+Ele nunca te deixará
+O meu Deus nunca te deixou
+Nem te abandonará, nem te abandonará (o que diremos)
+
+*MANTEM GROOVE PEGADO**
+O que diremos, pois, diante dessas coisas
+*PREPARA PRA PAUSA NO QUEM SERÁ*
+Se Deus é por nós, joga a mão e canta
+*PAARAAAAA*
+Quem será contra (nós?)
+
+*VOLTAAAA PAPAPAPA LÁ EM CIMA*
+O que diremos, pois, diante dessas coisas
+Se Deus é por nós e quem será? Quem será?
+(Contra nós?)
+
+*GROOVEZAO LÁ EM CIMA WORSHIPÃO*
+O meu Deus, ele vai com você
+Ele nunca te deixará
+O meu Deus nunca te deixou
+Nem te abandonará, (nem te abandonará, não, não)
+
+*MANTEM MESMA PEGADA*
+O meu Deus ele vai com você
+Ele nunca te deixará
+O meu Deus nunca te deixou
+Nem te abandonará, nem te abandonará
+
+*NA CABEÇA PA PA PA PA*
+O que diremos, pois, diante dessas coisas
+*DENOVO PAUSA*
+Se Deus é por nós, deixa eu ouvir
+*PAROOOOO*
+(Quem será contra nós?)
+
+*VOLTA DOBRANDO PAPA PAPA*
+O que diremos, pois, diante dessas coisas
+Se ele é por nós
+(Se Deus é por nós) e quem será (contra nós?)
+
+*INTERLUDIO SOLO GUITA*
+*LÁ EM CIMAAAAAAA*
+
+*DUAS VEZES O SOLOOOO*
+
+*CAI NOS PRATOS TRES VEZES*
+PAA PAAAA PAAAAAAAAANN*
+
+*MORRE*
+
+*SEM BATERA*
+O meu Deus, ele vai com você
+Ele (nunca te deixará)
+(O meu Deus nunca te deixou)
+Nem te abandonará, (nem te abandonará)
+
+*MESMA VIBVEZINHA*
+O meu Deus ele vai com você
+(Ele nunca te deixará)
+(O meu Deus nunca te deixou)
+(Nem te abandonará) seja forte
+(Nem te abandonará) seja forte
+
+*BEM SUAVE*
+*SEM BATERA*
+Seja forte, corajoso
+Não tenha medo, não desanime
+
+*MANTEM*
+Seja forte, corajoso
+Não tenha medo, não desanime
+
+*FINALIZA NOS PRATOS*
+
+
+*FIM*
+
+
+
+
+
+
+
       `      
     },
     {
-      nome: '500',
+      nome: 'Yeshua - Julliany Souza',
       letra: `
         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      *INTRO*
+*TECLAS*
+
+
+
+*SEM BATERA*
+Te chamam de Deus e de Senhor
+Te chamam de Rei e Salvador
+Mas eu me atrevo a te chamar
+De meu amor
+
+*MESMA VIBE*
+Te chamam de Deus e de Senhor
+Te chamam de Rei e Salvador
+Mas eu me atrevo a te chamar
+De meu amor
+
+*SEM BATERAAA AINDA*
+Yeshua, Yeshua
+Tu és tão lindo
+Que eu nem sei
+Expressar
+
+*MANTEM A MESMA*
+Yeshua
+Tu és tão lindo
+
+*PREPARAAA*
+*ENTRA NA INTRO*
+
+*TRIBAL E PRATOS*
+*MORRE*
+
+*VOLTA COM GROOVE*
+Te chamam de Deus e de Senhor
+Te chamam de Rei e Salvador
+Mas eu me atrevo a te chamar
+De meu amor
+
+*MANTEM MESMO GROOVE*
+Te chamam de Deus e de Senhor
+Te chamam de Rei e Salvador
+Mas eu me atrevo a te chamar
+De meu amor
+
+*SUBIUUUU*
+*GROOVE COM TAMBORES E RIDE*
+Yeshua, Yeshua
+Tu és tão lindo
+
+*MESMAAAA VIBE*
+Que eu nem sei
+Expressar
+Yeshua
+Tu és tão lindo
+
+*CRESCEEEEE*
+*RIDE E CAIXA*
+Que eu nem sei
+Expressar
+Yeshua
+Tu és tão lindo
+
+*MANTEEMMMMMM*
+*INTRO COM TRIBAL E PRATOS*
+
+*DUAS VEZES*
+
+*PREPARAAAA*
+*VAI CAIIIRRRR*
+
+*SEM BATERA*
+Yeshua, Yeshua
+Tu és tão lindo
+Que eu nem sei
+Expressar
+
+*MANTEM SEM BATERA*
+Yeshua
+Tu és tão lindo
+
+*SEM BATERA*
+Tu és tão lindo
+O mais lindo
+O mais lindo
+Yeshua, Yeshua
+
+*MINISTRAÇÃO SEM BATERA*
+Não há outro igual
+Não há outro igual
+Não não
+Não há outro igual
+
+*MANTEMMM*
+Seus cabelos são brancos como a lã
+O seus olhos são como chamas de fogo
+Da sua boca sai uma espada
+E sua voz é como a voz de muitas águas
+E seus pés são como o bronze polido
+O seu rosto brilha como o Sol
+O seu rosto brilha como o Sol
+
+*MANTEM MESMA VIBE*
+Não há outro igual
+Não há outro igual
+Não não
+
+*RIDEZINHO ENTRA*
+Não há outro que seja imagem do Deus Todo Poderoso
+Não há outro
+*ENFASE NO TEMPO 1*
+Emanuel Emanuel
+O mais belo, o mais belo
+
+*VAI CRESCENDO*
+*TRIBAL E RIDE*
+Yeshua, Yeshua
+Yeshua, Yeshua
+Não não
+
+*MANTEM MESMA PEGADA*
+Não há outro como Tu
+Como Tu
+Como Tu
+Não não não
+
+*DOBRA*
+*CAIXA PAPAPAP E PRATO E BUMBO*
+O desejado nas nações
+O desejado das nações
+Yeshua, Yeshua
+Yeshua, Yeshua
+
+*GROOVEZAO*
+O desejado das nações
+
+*ESPONTANEO LA EM CIMAAA*
+
+*VAI MORRERR*
+
+*SEM BATERA*
+Yeshua, Yeshua
+Tu és tão lindo
+Que eu nem sei
+Expressar
+Yeshua
+Tu és tão lindo
+
+*FINALIZA NOS PRATOS*
+
+
+*FIM*
+
+
+
+
+
+
+
       `      
     },
     {
-      nome: '500',
+      nome: 'A tua mesa cura',
       letra: `
         
+
+
+
+
+
+
+
+
+
+
+
+
+
+      *INTRO*
+*VIOLÃO*
+
+
+
+*SEM BATERA*
+Tanto que eu trabalhei
+Tanto que me desgastei
+Tanto que o sol me queimou
+Cuidando da vinha que não era minha
+
+*AINDA MANTEM*
+Tentando achar o meu valor
+Tentando te impressionar
+Será que um dia eu poderia
+Ser suficiente?
+
+*ENTRA NA CAIXINHA MARCHA*
+Tanto que eu trabalhei
+Tanto que me desgastei
+Tanto que o sol me queimou
+Cuidando da vinha que não era minha
+
+*MANTEM*
+Tentando achar o meu valor
+Tentando te impressionar
+Será que um dia eu poderia
+Ser suficiente?
+
+*GROOVE DEBOAS*
+*CHIMBAL E CAIXA*
+Em casa, na mesa, em meio aos meus irmãos
+Eu descobri a extensão do teu amor
+
+*MANTEM A MESMA*
+Sem palcos ou aplausos, longe das multidões
+Eu descobrir que sou aceito por ti
+
+*MANTEM A MESMA*
+Em casa, na mesa, em meio aos meus irmãos
+Eu descobri a extensão do teu amor
+
+*MESMA PEGADA*
+Sem palcos ou aplausos, longe das multidões
+Eu descobrir que sou aceito por ti
+
+*TRIBAL COM PRATOS*
+Carrego o nome da família
+
+*ENTRA NO GROOVE UM POUCO MAIS PEGADO*
+A tua mesa cura, a tua mesa cura
+Aqui tem vinho e pão, tem um lugar pra mim
+A tua mesa cura, a tua mesa cura
+Aqui tem vinho e pão, tem um lugar pra mim
+
+*MANTEM A MESMA PEGADA*
+A tua mesa cura 
+A tua mesa cura 
+Aqui tem vinho e pão, tem um lugar pra mim
+
+*MANTEMMM*
+A tua mesa cura (tua mesa cura)
+A tua mesa cura (tua mesa cura)
+Aqui tem vinho e pão, tem um lugar pra mim
+
+*MORRE*
+*SEM BATERA*
+Carrego o nome da família
+Carrego o nome da família
+
+*COMEÇA A CRESCER*
+Carrego o nome da família
+Carrego o nome da família
+
+*CRESCE E LÁ EM CIMA*
+*GROOVEZAO*
+Os meus esforços não compram Deus
+Os meus esforços não te compram
+Eu te conheci
+Quando aprendi a descansar
+
+*MANTEM A MESMA PEGADA*
+Os meus esforços não compram Deus
+Os meus esforços não te compram
+Eu só te conheci
+Quando aprendi a desfrutar
+
+*MANTEM A MESMA*
+Os meus esforços não compram Deus
+Os meus esforços não te compram
+Eu te conheci
+Quando aprendi a descansar
+
+*DE NOVOOO*
+Os meus esforços não compram Deus
+Os meus esforços não te compram
+Eu só te conheci
+Quando aprendi a desfrutar
+
+*TRIBAL COM PRATOS*
+Carrego o nome da família
+Carrego o nome da família
+
+*CRESCE DIRETO PAPAPAPAP*
+Carrego o nome da família
+Carrego o nome da família
+
+*EXPLODEEEEE*
+*PEGADAOOO*
+Carrego o nome da família
+Carrego o nome da família
+
+*CAIUUUU*
+
+*SEM BATERA*
+A tua mesa cura, a tua mesa cura
+Aqui tem vinho e pão, tem um lugar pra mim
+
+*SEM BATERA AINDA*
+A tua mesa cura, a tua mesa cura
+Aqui tem vinho e pão, tem um lugar pra mim
+
+*SEM BATERA AINDA*
+A tua mesa cura, a tua mesa cura
+Aqui tem vinho e pão, tem um lugar pra mim
+
+*SEM BATERA AINDA*
+A tua mesa cura, a tua mesa cura
+Aqui tem vinho e pão, tem um lugar pra mim
+
+
+*FINALIZA NOS PRATOS*
+
+
+*FIM*
+
+
+
+
+
+
+
       `      
     },
     {
