@@ -43,6 +43,8 @@ const ListaMusicas = () => {
     'Se Deus é por nós',
     'Yeshua - Julliany Souza',
     'A tua mesa cura',
+    'Colossenses 1 e Da Vida, o Melhor',
+    'Diante da Cruz',
   ];
 
 const [searchTerm, setSearchTerm] = useState('');

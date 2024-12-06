@@ -1,29 +1,14 @@
 const GrupoData = {
 playlistCulto: [
     {
-        nome: 'Sala do Trono',
+        nome: 'Colossenses 1 e Da Vida, o Melhor',
     },
     {
-        nome: 'Maranata',
+        nome: 'Diante da Cruz',
     },
-    {
-        nome: 'Força Igreja',
-    },
-    {
-        nome: 'Abraço do Noivo',
-    },
-    {
-        nome: 'Canção que não envelhece',
-    },
-    {
-        nome: 'Days of Elijah',
-    },
-    {
-        nome: 'Jesus - Eddie James',
-    },
-    {
-        nome: 'Onipotente',
-    },
+    // {
+    //     nome: 'Força Igreja',
+    // },
     ],
     umadesa2025: [
       {

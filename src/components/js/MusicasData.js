@@ -4763,6 +4763,364 @@ Aqui tem vinho e pão, tem um lugar pra mim
       `      
     },
     {
+      nome: 'Colossenses 1 e Da Vida, o Melhor',
+      letra: `
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      *INTRO*
+
+*VIOLAO E PAD*
+
+
+
+*SEM BATERA*
+Ele é a imagem do Deus invisível
+Ele é Senhor sobre a criação
+
+*MANTEM SEM BATERA*
+Pois, nele foram criadas
+Todas as coisas nos céus e na terra
+Sejam tronos, soberanias
+Poderes ou autoridades
+
+*MANTEM MESMA VIBE*
+Ele é antes de tudo
+E a todos sustenta pela Palavra
+Pois, foi do agrado de Deus
+Que em tudo Ele tenha
+Supremacia
+
+*PREPARA*
+*ABRE PRATOS*
+
+*INTERLUDIO*
+*SEM BATERA*
+
+*ABRE PRATOS*
+*VEM NO GROOVE BEM DEBOAS*
+*OU UMA MARCHA*
+Ele é o resplendor da glória do Pai
+Ele é a exata expressão do seu ser
+
+*MANTEM MESMA VIBE*
+Pois, nele foram criadas
+Todas as coisas nos céus e na terra
+Sejam tronos, soberanias
+Poderes ou autoridades
+
+*MESMA PEGADA*
+Ele é antes de tudo
+E a todos sustenta pela Palavra
+Pois, foi do agrado de Deus
+Que em tudo Ele tenha
+Supremacia
+
+*INTERLUDIO*
+
+*RIDE COM ALGUNS TONS*
+Oh oh oh oh
+Oh oh oh oh
+
+*CRESCENTE*
+*PA PA PA PA*
+Já não há mais nada
+Que a Ele não pertença
+*MANTEMMM PAPA PAPA PAPA*
+Em tudo existe graça
+Cantemos, sim!
+
+*CRESCEUU*
+*GROOVE PEGADAO WORSHIP*
+Já não há mais nada
+Que a Ele não pertença
+*MANTEMMM*
+Em tudo existe graça
+*PREPARA PRA PARAR*
+Cantemos, sim!
+*PARAAA SECO*
+
+*SEM BATERA*
+Oh oh oh oh
+Oh oh oh oh
+Oh oh oh oh
+
+
+*SÓ TECLAS*
+
+*SEM BATERA*
+Vida, verdade, caminho e paz
+Luz sobre as trevas, redentor
+
+*VAI ALGUNS RIDES*
+Vida, verdade, caminho e paz
+*ALGUNS TONS DANDO CRESCIMENTO*
+Luz sobre as trevas, redentor
+
+*VAI CRESCENDO ALGUNS TONS*
+Vida, verdade, caminho e paz
+*AUMENTAAAAA*
+Luz sobre as trevas, redentor
+
+*PREPARAAAAAA*
+
+*SOH BATERA*
+*TRIBALL*
+Nosso refúgio, fortaleza
+Nossa força nas batalhas
+*VEM COM ALGUNS PRATOS*
+O perfeito sacrifício
+Verbo em carne, Rei dos reis
+
+*LÁ EM CIMAAA*
+*GROOVE WORSHIPAO*
+Para nós Ele é da vida, o melhor
+Nosso mover e existir, paraíso aqui
+
+*MANTEM MESMA PEGADA*
+Só a Ele entregar o principio e o fim
+Do universo o Rei, do mundo a luz
+
+*RALENTAAAAAA*
+
+*FINALIZA NOS PRATOS*
+
+
+
+
+
+*FIM*
+      `      
+    },
+    {
+      nome: 'Diante da Cruz',
+      letra: `
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      *INTRO*
+
+*TECLADO E ALGUNS RIDES*
+
+*PREPARA*
+
+*SEM BATERA*
+Ó Deus, me sondas, conheces-me
+Mesmo quando falho, eu sei, me amas
+
+*ENTRA BEM DEBOAS*
+*BUMBO E RIDES*
+Estás presente a me cercar
+Em todo tempo, eu sei, me amas
+Eu sei, me amas
+
+*ABRE PRATOS*
+
+*DEBOAS LEVADINHA*
+*ARO E RIDE*
+Prostro-me diante da cruz
+Vejo o sangue de Jesus
+Nunca houve amor assim
+Sobre a morte já venceu
+Sua glória o céu encheu
+Nada irá me separar
+*CAIIIIU*
+
+*VOLTA LAH EM CIMA*
+*INTERLUDIO*
+*PEGADO*
+
+*CAI*
+
+*VEM GROOVE COM ARO*
+Tu és meu guia, meu protetor
+Tua mão me firma
+*PREPARA*
+Eu sei, me amas
+*VAI CRESCERRRR*
+Eu sei, me amas
+
+*GROVE LÁ EM CIMA*
+Prostro-me diante da cruz
+Vejo o sangue de Jesus
+Nunca houve amor assim
+Sobre a morte já venceu
+Sua glória o céu encheu
+Nada irá me separar
+
+*MANTEM MESMA PEGADAAAA*
+Prostro-me diante da cruz
+Vejo o sangue de Jesus
+Nunca houve amor assim
+Sobre a morte já venceu
+Sua glória o céu encheu
+Nada irá me separar
+
+*MANTEM LÁ EM CIMA*
+*BUMBO DIRETO*
+O véu rasgou, o caminho abriu
+Tudo consumado está
+
+*NA MESMAAAA*
+O véu rasgou, o caminho abriu
+Tudo consumado está
+*CAIUUUUUU*
+
+*SEM BATERA*
+E quando tudo se acabar
+Estarei seguro
+Pois sei, me amas
+*PREPARA PRA CRESCER*
+Pois sei, me amas
+
+*CRESCEEEEEE*
+
+*LÁ EM CIMAAAAA*
+Prostro-me diante da cruz
+Vejo o sangue de Jesus
+Nunca houve amor assim
+Sobre a morte já venceu
+Sua glória o céu encheu
+Nada irá me separar
+
+*MANTEM MESMA PEGADAAA*
+*SUBIU DE TOM KKK*
+Prostro-me diante da cruz
+Vejo o sangue de Jesus
+Nunca houve amor assim
+Sobre a morte já venceu
+Sua glória o céu encheu
+Nada irá me separar
+
+*INTERLUDIOOO*
+*LÁ EM CIMAAA AINDAAA*
+
+*RALENTA E PRATOS*
+Senhor, Jesus, Ele venceu
+
+
+
+*FINALIZA NOS PRATOS*
+
+
+
+
+
+*FIM*
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
+      nome: '500',
+      letra: `
+        
+      `      
+    },
+    {
       nome: '500',
       letra: `
         
